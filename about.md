@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Welcome,
-
 My name is Cristian Stroparo and I am a DevOps Engineer with 10+ years software engineering experience. I am very fond of technology and its advancements and as such I enjoy keeping up  and applying the best workflow models for each line of work while keeping it lean!
 
 I do deliberate practice as much as I can which made me a technical guru wherever I worked - you can confirm this by reading the recommendations on [my LinkedIn profile](https://linkedin.com/in/stroparo).
