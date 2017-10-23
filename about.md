@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-My name is Cristian Stroparo and I am a DevOps Engineer with 10+ years software engineering experience. I am very fond of technology and its advancements and as such I enjoy keeping up  and applying the best workflow models for each line of work while keeping it lean!
+My name is Cristian Stroparo and I am a DevOps Engineer with 10+ years software engineering experience.
+
+I am very fond of technology and its advancements and as such I enjoy keeping up  and applying the best workflow models for each line of work while keeping it lean!
 
 I do deliberate practice as much as I can which made me a technical guru wherever I worked - you can confirm this by reading the recommendations on [my LinkedIn profile](https://linkedin.com/in/stroparo).
 
-## I am a heavy user of:
+## Skills & Tools
 
 * Linux (strictly speaking: "GNU/Linux distributions")
 * Shell scripting: Bash, Ksh, Zsh and a myriad of GNU tools such as awk, sed etcetera
@@ -18,7 +20,7 @@ I do deliberate practice as much as I can which made me a technical guru whereve
 * Templating: code editor snippets, Kubernetes/OpenShift templates etcetera, as much as possible to save time ("make the common case fast")
 * Web technologies: [my portfolio](https://codepen.io/stroparo/full/qmLOYj/), visuals coded by myself using the slim template language and the bootstrap responsive grid library
 
-## Recent accomplishments:
+## Recent accomplishments
 
 * CI/CD automation of an OpenShift process launched by Jenkins to promote applications by image pulling. (HR readers: OpenShift is Red Hat's container orchestrator offering made on top of Kubernetes which is authored by Google and is the reference, state-of-the-art container orchestration platform.)
 
@@ -26,7 +28,7 @@ I do deliberate practice as much as I can which made me a technical guru whereve
 
 * Undertaking Docker and Kubernetes courses to keep up with it during my current experience doing Chef automation
 
-## Current skill honing:
+## Current education
 
 I am preparing for taking industry standard certification exams like:
 
@@ -36,16 +38,20 @@ I am preparing for taking industry standard certification exams like:
 * Following up containerized application adoption in the industry
 * [freeCodeCamp fullstack development course](https://www.freecodecamp.org/stroparo) (paused)
 
-## Previous experience:
+## Previous experience
 
 Before DevOps I used to be an Oracle consultant in the field of Planning & Optimization, mostly as support team lead and also tech lead in a few projects.
 
-## Willing to relocate?
+## Willing to relocate
 
 I am willing to relocate. I will need visa sponsorship for most countries outside of South America.
 
-### Contact me
+## More information
 
 I will be glad to share any other information. Just ask me.
 
-Contact me via [my LinkedIn profile](https://linkedin.com/in/stroparo)
+Contact me via:
+
+* [my LinkedIn profile](https://linkedin.com/in/stroparo)
+* cstropz@gmail.com (E-mail plus Google Hangouts)  
+* +55 41 98899-8484 (Mobile plus WhatsApp)
