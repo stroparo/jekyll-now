@@ -50,4 +50,4 @@ I am willing to relocate. I will need visa sponsorship for most countries outsid
 
 I will be glad to share any other information. Just ask me.
 
-[LinkedIn](https://linkedin.com/in/stroparo)
+Contact me via [my LinkedIn profile](https://linkedin.com/in/stroparo)
