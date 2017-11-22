@@ -14,7 +14,7 @@ I do deliberate practice as much as I can which made me a technical guru whereve
 
 * CI/CD automation of an OpenShift process launched by Jenkins to promote applications by image pulling. (HR readers: OpenShift is Red Hat's container orchestrator offering made on top of Kubernetes which is authored by Google and is the reference, state-of-the-art container orchestration platform.)
 
-* On September, 2017 I switched jobs and joined an international project for a major financial corporation doing Chef automation
+* On September, 2017 I switched jobs and joined an international project for a major financial corporation working on Chef automation and Jenkins Pipelines
 
 * Web front-end development [portfolio](https://codepen.io/stroparo/full/qmLOYj/), visuals coded by myself using the slim template language and the bootstrap responsive grid library
 
