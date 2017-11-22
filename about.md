@@ -16,7 +16,7 @@ I do deliberate practice as much as I can which made me a technical guru whereve
 
 * On September, 2017 I switched jobs and joined an international project for a major financial corporation working on Chef automation and Jenkins Pipelines
 
-* Web front-end development [portfolio](https://codepen.io/stroparo/full/qmLOYj/), visuals coded by myself using the slim template language and the bootstrap responsive grid library
+* [Portfolio](https://codepen.io/stroparo/full/qmLOYj/) visuals to showcase some of my side projects, coded by myself using the slim template syntax and the Bootstrap responsive grid library
 
 ## Current Relevant Skills
 
