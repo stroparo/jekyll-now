@@ -44,9 +44,9 @@ Current education:
 * [freeCodeCamp fullstack development course](https://www.freecodecamp.org/stroparo) (paused)
 * Linux Academy: Chef, Docker deep dive, Jenkins, Kubernetes, RHCSA & RHCE (Red Hat)
 
-## Before DevOps
+## Experience prior to DevOps
 
-Most recent first
+My previous experience before fully switching to DevOps, from most to least recent:
 
 * 2013-2016 - Team lead supporting Oracle Planning & Optimization platforms (3 years; retail industry)
 * 2010-2013 - Oracle consultant supporting Planning & Optimization platforms (3 years; retail industry)
