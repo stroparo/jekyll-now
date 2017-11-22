@@ -10,37 +10,47 @@ I am very fond of technology and its advancements and as such I enjoy keeping up
 
 I do deliberate practice as much as I can which made me a technical guru wherever I worked - you can confirm this by reading the recommendations on [my LinkedIn profile](https://linkedin.com/in/stroparo).
 
-## Skills & Tools
-
-* Linux (strictly speaking: "GNU/Linux distributions")
-* Shell scripting: Bash, Ksh, Zsh and a myriad of GNU tools such as awk, sed etcetera
-* Newer platforms such as Python and Ruby, for automation
-* Current industry tooling including Chef, Git, Jenkins etcetera
-* Regular Expressions
-* Templating: code editor snippets, Kubernetes/OpenShift templates etcetera, as much as possible to save time ("make the common case fast")
-* Web technologies: [my portfolio](https://codepen.io/stroparo/full/qmLOYj/), visuals coded by myself using the slim template language and the bootstrap responsive grid library
-
 ## Recent accomplishments
 
 * CI/CD automation of an OpenShift process launched by Jenkins to promote applications by image pulling. (HR readers: OpenShift is Red Hat's container orchestrator offering made on top of Kubernetes which is authored by Google and is the reference, state-of-the-art container orchestration platform.)
 
 * On September, 2017 I switched jobs and joined an international project for a major financial corporation doing Chef automation
 
-* Undertaking Docker and Kubernetes courses to keep up with it during my current experience doing Chef automation
+* Web front-end development [portfolio](https://codepen.io/stroparo/full/qmLOYj/), visuals coded by myself using the slim template language and the bootstrap responsive grid library
 
-## Current education
+## Currently Relevant Skills
 
-I am preparing for taking industry standard certification exams like:
+In DevOps I am confident working with these stacks:
 
-* AWS Technical Pro accreditation
-* Chef automation
-* Red Hat Certified System Administrator certificate
-* Following up containerized application adoption in the industry
+* OpenShift, Red Hat's Kubernetes container orchestration offering
+* Python 214 IQ score on Pluralsight which (expert spectrum)
+* Skilled Linux/Unix Shell Scripting for deployment and release (6 years)
+
+Certifications:
+
+* AWS Technical Pro accreditation (APN via Wipro)
+* ITILv3 Foundation (Axelos )
+* Python 3 LinkedIn Learning course
+
+Recently started working with:
+
+* Chef Automation & Configuration Management
+* Jenkins CI/CD pipelines
+* Maven, Artifactory and SonarQube static code analysis
+* Ruby and Groovy languages
+
+Current education:
+
 * [freeCodeCamp fullstack development course](https://www.freecodecamp.org/stroparo) (paused)
+* Linux Academy: Chef, Docker deep dive, Jenkins, Kubernetes, RHCSA & RHCE (Red Hat)
 
-## Previous experience
+## Before DevOps
 
-Before DevOps I used to be an Oracle consultant in the field of Planning & Optimization, mostly as support team lead and also tech lead in a few projects.
+Most recent first
+
+* 2013-2016 - Team lead supporting Oracle Planning & Optimization platforms (3 years; retail industry)
+* 2010-2013 - Oracle consultant supporting Planning & Optimization platforms (3 years; retail industry)
+* 2009-2010 - Java & Oracle massive report generation (1 year; telecom industry)
 
 ## Willing to relocate
 
@@ -52,6 +62,7 @@ I will be glad to share any other information. Just ask me.
 
 Contact me via:
 
-* [my LinkedIn profile](https://linkedin.com/in/stroparo)
-* cstropz@gmail.com (E-mail plus Google Hangouts)  
-* +55 41 98899-8484 (Mobile plus WhatsApp)
+* [LinkedIn profile](https://linkedin.com/in/stroparo)
+* cstropz@gmail.com (E-mail & Hangouts)
+* cristian.stroparo (Skype)
+* +55 41 98899-8484 (Mobile phone & WhatsApp)
