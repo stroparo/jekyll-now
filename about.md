@@ -18,7 +18,7 @@ I do deliberate practice as much as I can which made me a technical guru whereve
 
 * Web front-end development [portfolio](https://codepen.io/stroparo/full/qmLOYj/), visuals coded by myself using the slim template language and the bootstrap responsive grid library
 
-## Currently Relevant Skills
+## Current Relevant Skills
 
 In DevOps I am confident working with these stacks:
 
