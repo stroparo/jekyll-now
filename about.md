@@ -23,7 +23,7 @@ I do deliberate practice as much as I can which made me a technical guru whereve
 In DevOps I am confident working with these stacks:
 
 * OpenShift, Red Hat's Kubernetes container orchestration offering
-* Python 214 IQ score on Pluralsight which (expert spectrum)
+* Python 214 IQ score on Pluralsight (expert spectrum)
 * Skilled Linux/Unix Shell Scripting for deployment and release (6 years)
 
 Certifications:
