@@ -12,7 +12,9 @@ Skype: cristian.stroparo
 
 ## Summary
 
-DevOps Engineer with 10+ years software engineering experience and strong background in automation, configuration management, Linux, Docker and Kubernetes (OpenShift) troubleshooting and maintenance.
+DevOps Engineer with 10+ years software engineering experience and background in automation, CI/CD, configuration management, containers and Linux troubleshooting and maintenance.
+
+I am also skilled with AWS, Python and Ruby for DevOps, and with Bootstrap v4, JavaScript and Slim for Front-end Web Development.
 
 ## Skills
 
