@@ -46,8 +46,8 @@ At current position:
   - Other activities: SysAdmin of on-premises services like GitLab and Jenkins
   - Major contributions:
     - CI/CD via image pulling in OpenShift
-    - Refactored all Bash scripts around GitLab and OpenShift for the operations team
-    - Implemented initial testing venues for operations jobs on Jenkins
+    - Refactored all Bash scripts for GitLab and OpenShift jobs
+    - Implemented an initial testing suite for GitLab and OpenShift scripts
 * 2013
   - Team lead at Logic
   - Main activity: Oracle Retail Planning & Optimization
