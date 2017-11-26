@@ -12,11 +12,6 @@ I am very fond of technology and enjoy keeping up and leveraging new enhancement
 
 I thrive for deliberate practice and this yielded several recommendations posted on [my LinkedIn profile](https://linkedin.com/in/stroparo).
 
-## Recent accomplishments
-
-* September, 2017: Joined a major financial corporation working with Chef Automation & Configuration Management, and Jenkins CI/CD Pipelines, for their long-term DevOps enablement project
-* January, 2017: CI/CD automation of an OpenShift on-premise QA to production environment for 200+ projects for Copel, the electric energy provider company of the state of Paraná in Brazil.
-
 ## Skills
 
 * Front-end web development
@@ -46,6 +41,34 @@ Most to least recent:
 
 See more certifications on [my LinkedIn profile](https://linkedin.com/in/stroparo).
 
+## Full career & skills timeline
+
+* 2009
+  - Trainee at Voxel
+  - Main project: Telecom concurrent reporting generators
+  - Technologies: Java, Oracle, Unix shell scripting (Bash & Ksh)
+* 2010
+  - Support Analyst at Wipro
+  - Main activity: Oracle Retail Planning & Optimization
+  - Technologies: Oracle & RPAS, Unix shell scripting (Bash & Ksh)
+* 2013
+  - Team lead at Logic
+  - Main activity: Oracle Retail Planning & Optimization
+  - Technologies: Oracle Fusion Middleware, Oracle RPAS, Unix shell scripting (Bash & Ksh)
+  - Major contribution: standardized team workflow by implementing standard deployment and operation scripts
+* 2016/12
+  - Support Analyst at Copel
+  - Main activity: OpenShift on-premises platform maintenance & support
+  - Other activities: SysAdmin of on-premises services like GitLab and Jenkins
+  - Major contributions:
+    - CI/CD via image pulling in OpenShift
+    - Refactored all Bash scripts around GitLab and OpenShift for the operations team
+    - Implemented initial testing venues for operations jobs on Jenkins
+* 2017/09
+  - DevOps Engineer at Wipro (Mastercard)
+  - Main activity: DevOps Enablement Project
+  - Technologies: Chef, Docker, Groovy, Java, Jenkins, Maven, Python, Ruby
+
 ## Current education
 
 * [freeCodeCamp fullstack development course](https://www.freecodecamp.org/stroparo) (paused)
@@ -59,24 +82,13 @@ See more certifications on [my LinkedIn profile](https://linkedin.com/in/stropar
   - Python, Django (J. Mitchel)
   - Ruby, Ruby on Rails, Vim for Rubyists (J. Hudgens)
 
-## Experience prior to exclusive DevOps
-
-My previous experience before fully switching to DevOps, most to least recent:
-
-* 2013-2016 - Team lead supporting Oracle Planning & Optimization platforms (3 years; retail industry)
-  - Agile and standard deployment and release shell script templates
-* 2010-2013 - Oracle consultant supporting Planning & Optimization platforms (3 years; retail industry)
-  - Heavy shell scripting and usage of command-line interface utilities (RPAS platform)
-* 2009-2010 - Java & Oracle massive report generation (1 year; telecom industry)
-  - Java SE & Oracle RDBMS
-
 ## Willing to relocate
 
-I am willing to relocate. I will need visa sponsorship for most countries outside of South America.
+I will need visa sponsorship for most countries outside of South America.
 
 ## More information
 
-I will be glad to share any other information. Just ask me.
+I am available for any other queries.
 
 Contact me via:
 
