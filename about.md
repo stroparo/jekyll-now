@@ -21,7 +21,7 @@ DevOps Engineer with 10+ years software engineering experience and strong backgr
   - JavaScript
 * Linux/Unix and professional shell scripting 7+ years
 * Python 214 IQ score on Pluralsight (expert spectrum)
-* Red Hat OpenShift management and operation (Copel Telecom, 2016)
+* Red Hat OpenShift management and operation, 2016-2017, at Copel Telecom
 
 At current position:
 
