@@ -15,7 +15,7 @@ I thrive for deliberate practice and this yielded several recommendations posted
 ## Recent accomplishments
 
 * September, 2017: Joined a major financial corporation working with Chef Automation & Configuration Management, and Jenkins CI/CD Pipelines, for their long-term DevOps enablement project
-* January, 2017: CI/CD automation of an OpenShift on-premise QA to production environment for 200+ projects for Copel, the electric energy provider company of the state of Paraná in Brazil.\
+* January, 2017: CI/CD automation of an OpenShift on-premise QA to production environment for 200+ projects for Copel, the electric energy provider company of the state of Paraná in Brazil.
 
 ## Skills
 
