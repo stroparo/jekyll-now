@@ -4,11 +4,17 @@ title: About
 permalink: /about/
 ---
 
-I am a DevOps Engineer with 10+ years software engineering experience.
+# Cristian Stroparo
 
-I am very fond of technology and enjoy keeping up and leveraging new enhancements and being lean at it!
+Cellphone: +55 41 98899-8484  
+Curitiba, Brazil  
+cstropz@gmail.com  
+[LinkedIn profile](https://linkedin.com/in/stroparo)  
+Skype: cristian.stroparo
 
-I thrive for deliberate practice and this yielded several recommendations posted at [my LinkedIn profile](https://linkedin.com/in/stroparo).
+## Summary
+
+DevOps Engineer with 10+ years software engineering experience and strong background in Linux and Unix shell scripting, automation, configuration management and Kubernetes (OpenShift) troubleshooting and maintenance.
 
 ## Skills
 
@@ -66,12 +72,3 @@ See more certificates at [my LinkedIn profile](https://linkedin.com/in/stroparo)
 ## Willing to relocate
 
 I will need visa sponsorship for most countries outside South America.
-
-## Contact
-
-I am available for any other queries via:
-
-* [LinkedIn profile](https://linkedin.com/in/stroparo)
-* cstropz@gmail.com (E-mail & Hangouts)
-* cristian.stroparo (Skype)
-* +55 41 98899-8484 (Mobile phone & WhatsApp)
