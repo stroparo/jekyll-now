@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello,
-
-I am Cristian Stroparo, a DevOps Engineer with 10+ years software engineering experience.
+I am a DevOps Engineer with 10+ years software engineering experience.
 
 I am very fond of technology and enjoy keeping up and leveraging new enhancements and being lean at it!
 
