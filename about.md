@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# Cristian Stroparo
-
 Cellphone: +55 41 98899-8484  
 Curitiba, Brazil  
 cstropz@gmail.com  
