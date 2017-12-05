@@ -18,12 +18,12 @@ I am also skilled with AWS, Python and Ruby for DevOps, and with Bootstrap v4, J
 
 ## Skills
 
+* Linux/Unix and shell scripting 7+ years
+* OpenShift by Red Hat, management and operation of 200+ projects on QA and production, 2016-2017
+* Python 214 IQ score on Pluralsight (expert spectrum)
 * Front-end web development
   - Bootstrap v4 responsive grid framework ([this portfolio page as an example](https://codepen.io/stroparo/full/qmLOYj/))
   - JavaScript
-* Linux/Unix and shell scripting 7+ years
-* Python 214 IQ score on Pluralsight (expert spectrum)
-* Red Hat OpenShift management and operation, 2016-2017, at Copel Telecom
 
 At current position:
 
