@@ -73,7 +73,6 @@ See more certificates at [my LinkedIn profile](https://linkedin.com/in/stroparo)
 
 Although several of these are small projects, they are all authored by me and most of them undergo updates on an as-needed basis since most are custom tooling I use on the job:
 
-* [coding-links](https://github.com/stroparo/coding-links)
 * [dotfiles](https://github.com/stroparo/dotfiles)
 * [ds](https://github.com/stroparo/ds)
 * [ds-extras](https://github.com/stroparo/ds-extras)
@@ -83,6 +82,10 @@ Although several of these are small projects, they are all authored by me and mo
 * [minimum-shell](https://github.com/stroparo/minimum-shell)
 * [openshift-scripts](https://github.com/stroparo/openshift-scripts)
 * [sublime-snippets](https://github.com/stroparo/sublime-snippets)
+
+These two repositories contain my favorite, noteworthy links about coding and tools:
+
+* [coding-links](https://github.com/stroparo/coding-links)
 * [tools-index](https://github.com/stroparo/tools-index)
 
 ## Willing to relocate
