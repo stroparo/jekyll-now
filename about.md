@@ -69,6 +69,22 @@ At current position:
 
 See more certificates at [my LinkedIn profile](https://linkedin.com/in/stroparo).
 
+## Open Source
+
+Although these are small projects, they are all authored by me and most of them undergo updates on an as-needed basis since most are custom tooling I use daily on the job:
+
+* [coding-links](https://github.com/stroparo/coding-links)
+* [dotfiles](https://github.com/stroparo/dotfiles)
+* [ds](https://github.com/stroparo/ds)
+* [ds-extras](https://github.com/stroparo/ds-extras)
+* [ds-rpas](https://github.com/stroparo/ds-rpas)
+* [ds-stroparo](https://github.com/stroparo/ds-stroparo)
+* [kube-scripts](https://github.com/stroparo/kube-scripts) (work in progress)
+* [minimum-shell](https://github.com/stroparo/minimum-shell)
+* [openshift-scripts](https://github.com/stroparo/openshift-scripts)
+* [sublime-snippets](https://github.com/stroparo/sublime-snippets)
+* [tools-index](https://github.com/stroparo/tools-index)
+
 ## Willing to relocate
 
 I will need visa sponsorship for most countries outside South America.
