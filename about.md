@@ -71,7 +71,7 @@ See more certificates at [my LinkedIn profile](https://linkedin.com/in/stroparo)
 
 ## Open Source
 
-Although these are small projects, they are all authored by me and most of them undergo updates on an as-needed basis since most are custom tooling I use daily on the job:
+Although several of these are small projects, they are all authored by me and most of them undergo updates on an as-needed basis since most are custom tooling I use on the job:
 
 * [coding-links](https://github.com/stroparo/coding-links)
 * [dotfiles](https://github.com/stroparo/dotfiles)
