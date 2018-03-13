@@ -83,7 +83,7 @@ Although several of these are small projects, they are all authored by me and mo
 * [openshift-scripts](https://github.com/stroparo/openshift-scripts)
 * [sublime-snippets](https://github.com/stroparo/sublime-snippets)
 
-These two repositories contain my favorite, noteworthy links about coding and tools:
+This repository contains useful links on coding guides, tools etcetera::
 
 * [coding-links](https://github.com/stroparo/coding-links)
 
