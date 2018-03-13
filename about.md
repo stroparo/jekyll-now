@@ -86,7 +86,6 @@ Although several of these are small projects, they are all authored by me and mo
 These two repositories contain my favorite, noteworthy links about coding and tools:
 
 * [coding-links](https://github.com/stroparo/coding-links)
-* [tools-index](https://github.com/stroparo/tools-index)
 
 ## Willing to relocate
 
