@@ -83,7 +83,7 @@ Although several of these are small projects, they are all authored by me and mo
 * [ds-extras](https://github.com/stroparo/ds-extras)
 * [ds-stroparo](https://github.com/stroparo/ds-stroparo)
 
-More projects in [my GitLab profile](https://gitlab.com/stroparo).
+More projects in [my GitLab profile](https://gitlab.com/users/stroparo/projects).
 
 ## Willing to relocate
 
