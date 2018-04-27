@@ -12,18 +12,23 @@ Skype: cristian.stroparo
 
 ## Summary
 
-DevOps Engineer with 10+ years software engineering experience and background in automation, CI/CD, configuration management, containers and Linux troubleshooting and maintenance.
-
-I am also skilled with AWS, Python and Ruby for DevOps, and with Bootstrap v4, JavaScript and Slim for Front-end Web Development.
+Software Engineer with 10+ years experience. Background in automation, shell scripting, and working since 2016 with CI/CD, configuration management, containers, Linux and system administration.
 
 ## Skills
 
-* Linux/Unix and shell scripting 7+ years
-* OpenShift by Red Hat, management and operation of 200+ projects on QA and production, 2016-2017
-* Python 214 IQ score on Pluralsight (expert spectrum)
 * Front-end web development
   - Bootstrap v4 responsive grid framework ([this portfolio page as an example](https://codepen.io/stroparo/full/qmLOYj/))
-  - JavaScript
+  - JavaScript/ES6+, 2016
+  - JavaScript/jQuery, 2011+
+* Back-end development
+    - Python 214 IQ score on Pluralsight (expert spectrum), 2017
+    - Java, 2008-2009
+    - Delphi, 2005-2006
+* DevOps / Infrastructure
+  - Chef cookbook maintenance, 2017+
+  - Jenkins maintenance, 2017+
+  - Kubernetes (Red Hat OpenShift) maintenance of 200+ project space catering for QA and production environments, 2016-2017
+  - Linux/Unix and shell scripting, 2010+
 
 At current position:
 
@@ -38,7 +43,7 @@ At current position:
 
 * 2017/09 - Present
   - DevOps Engineer at Wipro (Mastercard)
-  - Main activity: DevOps Enablement Project
+  - Main activity: DevOps Enablement Project and Chef cookbook maintenance & support
   - Technologies: Chef, Docker, Groovy, Java, Jenkins, Maven, Python, Ruby
 * 2016/12
   - Support Analyst at Copel
@@ -76,16 +81,9 @@ Although several of these are small projects, they are all authored by me and mo
 * [dotfiles](https://github.com/stroparo/dotfiles)
 * [ds](https://github.com/stroparo/ds)
 * [ds-extras](https://github.com/stroparo/ds-extras)
-* [ds-rpas](https://github.com/stroparo/ds-rpas)
 * [ds-stroparo](https://github.com/stroparo/ds-stroparo)
-* [kube-scripts](https://github.com/stroparo/kube-scripts) (work in progress)
-* [minimum-shell](https://github.com/stroparo/minimum-shell)
-* [openshift-scripts](https://github.com/stroparo/openshift-scripts)
-* [sublime-snippets](https://github.com/stroparo/sublime-snippets)
 
-This repository contains useful links on coding guides, tools etcetera::
-
-* [coding-links](https://github.com/stroparo/coding-links)
+More projects in [my GitLab profile](https://gitlab.com/stroparo).
 
 ## Willing to relocate
 
