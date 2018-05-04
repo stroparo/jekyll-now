@@ -76,7 +76,7 @@ See more certificates at [my LinkedIn profile](https://linkedin.com/in/stroparo)
 
 ## Open Source
 
-My personal dotfiles and the Daily Shells shell scripting framework to help with modular shell environments:
+My personal dotfiles and the Daily Shells scripting framework to help with modular shell environments:
 
 * [dotfiles](https://github.com/stroparo/dotfiles)
 * [ds](https://github.com/stroparo/ds)
