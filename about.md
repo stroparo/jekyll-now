@@ -7,6 +7,7 @@ permalink: /about/
 Cellphone: +55 41 98899-8484  
 Curitiba, Brazil  
 cstropz@gmail.com  
+BitBucket, GitHub & GitLab user: stroparo
 [LinkedIn profile](https://linkedin.com/in/stroparo)  
 Skype: cristian.stroparo
 
@@ -16,19 +17,19 @@ Software Engineer with 10+ years experience. Background in automation, shell scr
 
 ## Skills
 
-* Front-end web development
-  - Bootstrap v4 responsive grid framework ([this portfolio page as an example](https://codepen.io/stroparo/full/qmLOYj/))
-  - JavaScript/ES6+, 2016
-  - JavaScript/jQuery, 2011+
-* Back-end development
-    - Python 214 IQ score on Pluralsight (expert spectrum), 2017
-    - Java, 2008-2009
-    - Delphi, 2005-2006
 * DevOps / Infrastructure
   - Chef cookbook maintenance, 2017+
   - Jenkins maintenance, 2017+
   - Kubernetes (Red Hat OpenShift) maintenance of 200+ project space catering for QA and production environments, 2016-2017
   - Linux/Unix and shell scripting, 2010+
+* Front-end web development
+  - Bootstrap v4 responsive grid framework ([this portfolio page as an example](https://codepen.io/stroparo/full/qmLOYj/))
+  - JavaScript/ES6+, 2016
+  - JavaScript/jQuery, 2011+
+* Back-end development
+  - Python 214 IQ score on Pluralsight (expert spectrum), 2017
+  - Java, 2008-2009
+  - Delphi, 2005-2006
 
 At current position:
 
@@ -85,6 +86,6 @@ My personal dotfiles and the Daily Shells scripting framework to help with modul
 
 More projects in [my GitLab profile](https://gitlab.com/users/stroparo/projects).
 
-## Willing to relocate
+## Miscellaneous
 
-I will need visa sponsorship for most countries outside South America.
+Willing to relocate.
