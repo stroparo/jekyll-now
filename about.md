@@ -7,7 +7,7 @@ permalink: /about/
 Cellphone: +55 41 98899-8484  
 Curitiba, Brazil  
 cstropz@gmail.com  
-BitBucket, GitHub & GitLab user: stroparo
+BitBucket, GitHub & GitLab user: stroparo  
 [LinkedIn profile](https://linkedin.com/in/stroparo)  
 Skype: cristian.stroparo
 
