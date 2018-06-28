@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Cellphone: +55 41 98899-8484  
-Curitiba, Brazil  
+Hometown: Curitiba, Brazil  
 cstropz@gmail.com  
-BitBucket, GitHub & GitLab user: stroparo  
-[LinkedIn profile](https://linkedin.com/in/stroparo)  
 Skype: cristian.stroparo
+
+[BitBucket](https://bitbucket.org/stroparo), [GitHub](https://github.com/stroparo) & [GitLab](https://gitlab.com/stroparo) user: stroparo  
+[LinkedIn profile](https://linkedin.com/in/stroparo)  
 
 ## Summary
 
