@@ -13,21 +13,26 @@ Skype: cristian.stroparo
 
 ## Summary
 
-Software Engineer for 10+ years with background in software development, automation, shell scripting, and working since 2016 with CI/CD, configuration management, containers, Linux and system administration.
+Software Engineer for 10+ years with background in software development, infrastructure automation and configuration management.
+
+Back End Developer experience in Java and Python 3.  
+Front End Developer: HTML5, CSS3, Bootstrap v4, JavaScript / ES6.  
+Infrastructure & Configuration: Chef, Jenkins, Bash & Ksh (Korn) shells and Python scripting.  
+Containers: Docker, Kubernetes (OpenShift).  
 
 ## Skills
 
 * DevOps / Infrastructure
   - Chef cookbook maintenance, 2017+
   - Jenkins maintenance, 2017+
-  - Kubernetes (Red Hat OpenShift) maintenance of 200+ project space catering for QA and production environments, 2016-2017
+  - Docker & Kubernetes (OpenShift) 2016+
   - Linux/Unix and shell scripting, 2010+
 * Front-end web development
-  - Bootstrap v4 responsive grid framework ([this portfolio page as an example](https://codepen.io/stroparo/full/qmLOYj/))
-  - JavaScript/ES6+, 2016
-  - JavaScript/jQuery, 2011+
+  - Bootstrap v4 responsive grid ([samples](https://codepen.io/stroparo/full/qmLOYj/))
+  - JavaScript / ES6+, 2016+
+  - JavaScript / jQuery, 2011+
 * Back-end development
-  - Python 214 IQ score on Pluralsight (expert spectrum), 2017
+  - Python 2010+, 214 IQ score on Pluralsight (expert) as of 2017
   - Java, 2008+
 
 At current position:
