@@ -13,7 +13,7 @@ Skype: cristian.stroparo
 
 ## Summary
 
-Software Engineer with 10+ years experience. Background in automation, shell scripting, and working since 2016 with CI/CD, configuration management, containers, Linux and system administration.
+Software Engineer for 10+ years with background in software development, automation, shell scripting, and working since 2016 with CI/CD, configuration management, containers, Linux and system administration.
 
 ## Skills
 
@@ -28,18 +28,16 @@ Software Engineer with 10+ years experience. Background in automation, shell scr
   - JavaScript/jQuery, 2011+
 * Back-end development
   - Python 214 IQ score on Pluralsight (expert spectrum), 2017
-  - Java, 2008-2009
-  - Delphi, 2005-2006
+  - Java, 2008+
 
 At current position:
 
 * Chef Automation & Configuration Management (Ruby language and Chef's DSL)
 * Jenkins CI/CD Pipelines (Groovy language and shell scripting)
-* Build tools for Java:
+  - Java
   - Maven
   - Artifactory
-  - SonarQube static code analysis
-
+  
 ## Experience
 
 * 2017/09 - Present
@@ -56,12 +54,13 @@ At current position:
     - Implemented an initial testing suite for GitLab and OpenShift scripts
 * 2013
   - Team lead at Logic
-  - Main activity: Oracle Retail Planning & Optimization
+  - Main activity: Manage a team maintaining and supporting Oracle Planning & Optimization applications
   - Technologies: Oracle Fusion Middleware, Oracle RPAS, Unix shell scripting (Bash & Ksh)
   - Major contribution: standardized team workflow by implementing standard deployment and operation scripts
 * 2010
   - Support Analyst at Wipro
-  - Main activity: Oracle Retail Planning & Optimization
+  - Main activity: Maintenance and support of Oracle Planning & Optimization applications
+  - Other activities: Technical implementation specialist
   - Technologies: Oracle & RPAS, Unix shell scripting (Bash & Ksh)
 
 ## Education
@@ -86,6 +85,6 @@ My personal dotfiles and the Daily Shells scripting framework to help with modul
 
 More projects in [my GitLab profile](https://gitlab.com/users/stroparo/projects).
 
-## Miscellaneous
+## Relocation
 
 Willing to relocate.
