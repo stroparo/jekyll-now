@@ -65,7 +65,8 @@ At current position:
 
 ## Education
 
-* 2018 - [Full Stack Web Development at freeCodeCamp](https://www.freecodecamp.org/stroparo)
+* 2019 - [Java track at DevMedia](https://www.devmedia.com.br/guia/programador-java/37809)
+* 2019 - [Front-end Development at freeCodeCamp](https://www.freecodecamp.org/stroparo)
 * 2017 - AWS Technical Professional Accreditation - Amazon Partner Network
 * 2016 - Python 3 Essential Training - LinkedIn
 * 2015 - ITILv3 Foundation Certification - Axelos / Exin
