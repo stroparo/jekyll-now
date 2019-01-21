@@ -86,7 +86,6 @@ My personal dotfiles and the Daily Shells scripting framework to help with modul
 
 * [dotfiles](https://github.com/stroparo/dotfiles)
 * [ds](https://github.com/stroparo/ds)
-* [ds-extras](https://github.com/stroparo/ds-extras)
 * [ds-stroparo](https://github.com/stroparo/ds-stroparo)
 
 More projects in [my GitLab profile](https://gitlab.com/users/stroparo/projects).
