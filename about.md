@@ -13,6 +13,10 @@ Skype: cristian.stroparo
 
 Software Engineer for 10+ years with background in software development, infrastructure automation and configuration management.
 
+Speaks English, Spanish, Portuguese.
+
+Willing to relocate.
+
 ## Skills
 
 * DevOps / Infrastructure
@@ -77,7 +81,7 @@ See more certificates at [my LinkedIn profile](https://linkedin.com/in/stroparo)
 
 Code repositories: [BitBucket](https://bitbucket.org/stroparo), [GitHub](https://github.com/stroparo), [GitLab](https://gitlab.com/users/stroparo/projects)
 
-My personal dotfiles and the Daily Shells scripting framework to help with modular shell environments and some provisioning recipes:
+My personal dotfiles and the Daily Shells scripting framework to help with modular shell environments and a set of provisioning recipes:
 
 * [dotfiles](https://github.com/stroparo/dotfiles) - uses the [runr](https://github.com/stroparo/runr) remote task runner
 * [ds](https://github.com/stroparo/ds) - Daily Shells
