@@ -6,19 +6,12 @@ permalink: /about/
 
 Hometown: Curitiba, Brazil  
 cstropz@gmail.com  
-Skype: cristian.stroparo
-
-[BitBucket](https://bitbucket.org/stroparo), [GitHub](https://github.com/stroparo) & [GitLab](https://gitlab.com/stroparo) user: stroparo  
 [LinkedIn profile](https://linkedin.com/in/stroparo)  
+Skype: cristian.stroparo  
 
 ## Summary
 
 Software Engineer for 10+ years with background in software development, infrastructure automation and configuration management.
-
-Back End Developer experience in Java and Python 3.  
-Front End Developer: HTML5, CSS3, Bootstrap v4, JavaScript / ES6.  
-Infrastructure & Configuration: Chef, Jenkins, Bash & Ksh (Korn) shells and Python scripting.  
-Containers: Docker, Kubernetes (OpenShift).  
 
 ## Skills
 
@@ -82,13 +75,13 @@ See more certificates at [my LinkedIn profile](https://linkedin.com/in/stroparo)
 
 ## Open Source
 
-My personal dotfiles and the Daily Shells scripting framework to help with modular shell environments:
+Code repositories: [BitBucket](https://bitbucket.org/stroparo), [GitHub](https://github.com/stroparo), [GitLab](https://gitlab.com/users/stroparo/projects)
 
-* [dotfiles](https://github.com/stroparo/dotfiles)
-* [ds](https://github.com/stroparo/ds)
-* [ds-stroparo](https://github.com/stroparo/ds-stroparo)
+My personal dotfiles and the Daily Shells scripting framework to help with modular shell environments and some provisioning recipes:
 
-More projects in [my GitLab profile](https://gitlab.com/users/stroparo/projects).
+* [dotfiles](https://github.com/stroparo/dotfiles) - uses the [runr](https://github.com/stroparo/runr) remote task runner
+* [ds](https://github.com/stroparo/ds) - Daily Shells
+* [ds-stroparo](https://github.com/stroparo/ds-stroparo) - Daily Shells plugin
 
 ## Relocation
 
