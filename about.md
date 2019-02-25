@@ -81,11 +81,12 @@ See more certificates at [my LinkedIn profile](https://linkedin.com/in/stroparo)
 
 Code repositories: [BitBucket](https://bitbucket.org/stroparo), [GitHub](https://github.com/stroparo), [GitLab](https://gitlab.com/users/stroparo/projects)
 
-My personal dotfiles and the Daily Shells scripting framework to help with modular shell environments and a set of provisioning recipes:
+I started and maintain the Daily Shells suite of tools and my dotfiles contain configuration files plus a modular set
+of environment and tool provisioning recipes:
 
-* [dotfiles](https://github.com/stroparo/dotfiles) - uses the [runr](https://github.com/stroparo/runr) remote task runner
-* [ds](https://github.com/stroparo/ds) - Daily Shells
-* [ds-stroparo](https://github.com/stroparo/ds-stroparo) - Daily Shells plugin
+* [Daily Shells](https://github.com/stroparo/ds)
+* [dotfiles](https://github.com/stroparo/dotfiles)
+* [runr](https://github.com/stroparo/runr) remote task runner, also used by the dotfiles project above
 
 ## Relocation
 
