@@ -11,11 +11,23 @@ Skype: cristian.stroparo
 
 ## Summary
 
-Software Engineer for 10+ years with background in software development, infrastructure automation and configuration management.
+Software Engineer with experience in software development, infrastructure automation and configuration management.
 
-Speaks English, Spanish, Portuguese.
+Speaks English, Spanish, French (mid-level), Portuguese.
 
 Willing to relocate.
+
+## Quick info on experience
+
+* 2019 July ... - Software Engineer: Java +Spring at Wipro / Mastercard
+* 2017 1yr 8mo - DevOps Engineer: Chef, Salt, Jenkins at Wipro / Mastercard
+* 2017 9 months - DevOps Engineer: OpenShift (Kubernetes) at Copel Telecom
+* 2013 3 years - Tech lead: Oracle planning & optimization applications support
+* 2011 2 years - Consultant: Oracle Retail planning & optimization applications
+* 2010 1 year - Support Trainee: Oracle Retail planning & optimization applications
+* 2009 1 year - Java Developer trainee (financial application for telecom industry) at Voxel (extinct)
+* 2008 1 year - Java Developer trainee & Python law proposition data migration at Curitiba City Council
+* 2006 1 year - Delphi Developer intern at Copel Energia (Transmission component inventory system)
 
 ## Skills
 
