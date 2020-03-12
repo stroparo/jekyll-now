@@ -130,7 +130,7 @@ This is a summary. For detailed information see [the Experience section](#experi
 
 ## Education
 
-* 2019 - [Java track at DevMedia](https://www.devmedia.com.br/guia/programador-java/37809) (introductory tracks)
+* 2019 - [Modern Java introductory tracks - DevMedia](https://www.devmedia.com.br/guia/programador-java/37809)
 * 2017 - AWS Technical Professional Accreditation - Amazon Partner Network
 * 2016 - Python 3 Essential Training - LinkedIn
 * 2016 - [Front-end Development at freeCodeCamp](https://www.freecodecamp.org/stroparo) (partial)
