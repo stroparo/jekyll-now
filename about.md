@@ -58,16 +58,19 @@ Willing to relocate.
 
 * 2017/09 - 2019/07
   - Software Engineer at Wipro / Mastercard
-  - Main activity: Software Engineering developing features and maintaining Smart Interface Server (Emvco spec v2)
+  - Main activity: Developer for Mastercard's Smart Interface (Emvco spec v2)
   - Technologies: Java, Maven, JavaScript, Chef, Jenkins (Groovy), shell scripting
   - Major contributions
     - Implemented system startup fault tolerance flow for data streaming platform
-    - Release: release ownership & support for core Smart Interface Server & Admin
-    - Release / DevOps: CI/CD Jenkins pipeline operation support for the admin application
+    - Release ownership & support for core Smart Interface Server & Admin
+    - Release / DevOps: release pipeline operation support for the Admin application
 * 2017/09 - 2019/05
   - DevOps Engineer at Wipro / Mastercard
-  - Main activity: DevOps Enablement Project and Chef cookbook maintenance & support
-  - Technologies: Chef (Ruby), TestKitchen, Jenkins (Groovy), Java, Maven, Python, shell scripting
+  - Main activity: Jenkins pipelines and Chef cookbook maintenance and support
+  - Technologies: Chef (Ruby), TestKitchen, Jenkins (Groovy), Java, Maven, shell scripting
+  - Major contributions:
+    - Worked with senior engineering on new Maven release scripts and Git shell wrappers
+    - Owned one of the Chef cookbook ecosystem releases before it was automated
 * 2016/12
   - Support Analyst at Copel
   - Main activity: OpenShift on-premises platform maintenance & support
@@ -77,15 +80,21 @@ Willing to relocate.
     - Refactored all Bash scripts for GitLab and OpenShift jobs
     - Implemented an initial testing suite for GitLab and OpenShift scripts
 * 2013
-  - Team lead at Logic
-  - Main activity: Manage a team maintaining and supporting Oracle Planning & Optimization applications
-  - Technologies: Oracle Fusion Middleware, Oracle RPAS, Unix shell scripting (Bash & Ksh)
-  - Major contribution: standardized team workflow by implementing standard deployment and operation scripts
+  - Tech lead at Logic
+  - Main activity: Manage a support team of serveral Oracle Planning & Optimization applications
+  - Technologies: Oracle Fusion Middleware, Oracle RPAS, Unix shell scripting (Bash & Korn a.k.a. ksh)
+  - Major contributions:
+    - Implemented release automation: deployment and operation scripts
+    - Scaled release automation scripts across customers
+    - Gave shell script training to trainees and seniors
 * 2010
   - Support Analyst at Wipro
   - Main activity: Maintenance and support of Oracle Planning & Optimization applications
   - Other activities: Technical implementation specialist
-  - Technologies: Oracle & RPAS, Unix shell scripting (Bash & Ksh)
+  - Technologies: Java, Oracle RPAS, Unix shell scripting (Bash & Korn a.k.a. Ksh)
+  - Major contributions:
+    - Java program to crosscheck internal platform rules versus high-level configurations
+    - Implemented all the operations shell scripts for one customer
 
 ## Education
 
