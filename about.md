@@ -19,6 +19,8 @@ Willing to relocate.
 
 ## Quick info on experience
 
+This is a summary. For detailed information see [the Experience section](#experience).
+
 * 2019 July ... - Software Engineer: Java, Spring, Jenkins, Chef at Wipro / Mastercard
 * 2017 1yr 8mo - DevOps Engineer: Chef, Jenkins at Wipro / Mastercard
 * 2017 9 months - DevOps Engineer: OpenShift (Kubernetes) at Copel Telecom
