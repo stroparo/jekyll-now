@@ -7,7 +7,6 @@ permalink: /about/
 Hometown: Curitiba, Brazil  
 cstropz@gmail.com  
 [LinkedIn profile](https://linkedin.com/in/stroparo)  
-Skype: cristian.stroparo  
 
 ## Summary
 
