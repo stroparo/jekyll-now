@@ -59,7 +59,7 @@ This is a summary. For detailed information see [the Experience section](#experi
 
 ## Experience
 
-### 2019/07 - Now - Software Engineer at Wipro / Mastercard in Curitiba, Brazil
+### 2019/07 - Now - Software Engineer at Wipro / Mastercard - Curitiba, Brazil
 
 * Main activity: Developer for Mastercard's Smart Interface (Emvco spec v2)
 * Technologies: Java, Maven, JavaScript, Chef, Jenkins (Groovy), shell scripting (bash & ksh)
@@ -68,7 +68,7 @@ This is a summary. For detailed information see [the Experience section](#experi
   - Release ownership & support for core Smart Interface Server & Admin
   - Release / DevOps: release pipeline operation support for the Admin application
 
-### 2017/09 - 1yr 8mo (2019/05) - DevOps Engineer at Wipro / Mastercard in Curitiba, Brazil
+### 2017/09 - 1yr 8mo - DevOps Engineer at Wipro / Mastercard - Curitiba, Brazil
 
 * Main activity: Jenkins pipelines and Chef cookbook maintenance and support
 * Technologies: Chef (Ruby), TestKitchen, Jenkins (Groovy), Java, Maven, shell scripting (bash & ksh)
@@ -76,7 +76,7 @@ This is a summary. For detailed information see [the Experience section](#experi
   - Worked with senior engineering on new Maven release scripts and Git shell wrappers
   - Owned one of the Chef cookbook ecosystem releases before it was automated
 
-### 2016/12 - 9 months - Support Analyst at Copel Telecom in Curitiba, Brazil
+### 2016/12 - 9 months - Support Analyst at Copel Telecom - Curitiba, Brazil
 
 * Main activity: OpenShift on-premises platform maintenance & support
 * Other activities:
@@ -89,7 +89,7 @@ This is a summary. For detailed information see [the Experience section](#experi
   - Supported Git training sessions for 100+ developers
   - Supported training legacy Delphi developers for special release procedure
 
-### 2013 - 4 years - Tech lead at Logic Information Systems LATAM in Curitiba, Brazil
+### 2013/06 - 3.5 years - Tech lead at Logic LATAM - Curitiba, Brazil
 
 * Main activity: Manage a support team of serveral Oracle Planning & Optimization applications
 * Technologies: Oracle Fusion Middleware, Oracle RPAS, shell scripting (bash & ksh)
@@ -98,7 +98,7 @@ This is a summary. For detailed information see [the Experience section](#experi
   - Scaled release automation scripts across customers
   - Gave shell script training to trainees and seniors
 
-### 2012 - 1.5 year - Support Cosultant Analyst at Wipro LATAM in Curitiba, Brazil
+### 2012/01 - 1.5 year - Support Cosultant Analyst at Wipro LATAM in Curitiba, Brazil
 
 * Main activity: Maintenance and support of Oracle Planning & Optimization applications
 * Other activities: Technical implementation specialist for one project
@@ -106,7 +106,7 @@ This is a summary. For detailed information see [the Experience section](#experi
 * Major contributions:
   - Implemented all the operations shell scripts for one customer
 
-### 2010 - 1.5 year - Support Trainee at Wipro LATAM in Curitiba, Brazil
+### 2010/04 - 1.5 year - Support Trainee at Wipro LATAM in Curitiba, Brazil
 
 * Main activity: Maintenance and support of Oracle Planning & Optimization applications
 * Technologies: Java, Oracle RPAS, Unix shell scripting (bash & ksh)
