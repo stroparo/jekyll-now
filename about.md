@@ -19,14 +19,14 @@ Willing to relocate.
 
 ## Quick info on experience
 
-* 2019 July ... - Software Engineer: Java, Spring, Chef, Jenkins at Wipro / Mastercard
+* 2019 July ... - Software Engineer: Java, Spring, Jenkins, Chef at Wipro / Mastercard
 * 2017 1yr 8mo - DevOps Engineer: Chef, Salt, Jenkins at Wipro / Mastercard
 * 2017 9 months - DevOps Engineer: OpenShift (Kubernetes) at Copel Telecom
-* 2013 4 years - Tech lead (support): Oracle planning & optimization applications at Wipro
-* 2011 2 years - Consultant & support: Oracle planning & optimization applications at Wipro
-* 2010 1 year - Support Trainee: Oracle planning & optimization applications at Wipro
-* 2009 1 year - Java Developer Trainee: telecom industry financial batch report at Voxel (extinct)
-* 2008 1 year - Java Developer Trainee: Java, Python data migration at Curitiba City Council
+* 2013 4 years - Tech lead (support): Oracle planning & optimization at Wipro
+* 2011 2 years - Consultant & support: Oracle planning & optimization at Wipro
+* 2010 1 year - Support Trainee: Oracle planning & optimization at Wipro
+* 2009 1 year - Java Developer Trainee: Java, Oracle at Voxel (extinct)
+* 2008 1 year - Java Developer Trainee: Java, Python at Curitiba City Council
 * 2006 1 year - Developer Intern: Delphi, Oracle at Copel Energia
 
 ## Skills
@@ -101,9 +101,16 @@ Willing to relocate.
     - Implemented all the operations shell scripts for one customer
 * 2006 - 3 years
   - Internship & Trainee programs
-    - 2009 1 year - Java Developer Trainee: telecom industry financial batch report at Voxel (extinct)
-    - 2008 1 year - Java Developer Trainee: Java, Python data migration at Curitiba City Council
-    - 2006 1 year - Developer Intern: Delphi, Oracle at Copel Energia
+    - 2009 1 year - Java Developer Trainee at Voxel (extinct) in Curitiba, Brazil
+      - Main activity: Telecom industry financial batch report customization across customers
+      - Technologies: Java, JasperReports, Oracle
+    - 2008 1 year - Java Developer Trainee at Curitiba City Council, Brazil
+      - Main activity: Java development for new SPL v2 law proposition system
+      - Additional task: Python data migration from Lotus Notes to SPL v2
+      - Technologies: Java, Python, PostgreSQL
+    - 2006 1 year - Developer Intern at Copel Energia in Curitiba, Brazil
+      - Main activity: Screen development of inventory managament system for transmission components
+      - Technologies: Delphi, Oracle
 
 ## Education
 
