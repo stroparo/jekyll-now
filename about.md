@@ -20,7 +20,7 @@ Willing to relocate.
 ## Quick info on experience
 
 * 2019 July ... - Software Engineer: Java, Spring, Jenkins, Chef at Wipro / Mastercard
-* 2017 1yr 8mo - DevOps Engineer: Chef, Salt, Jenkins at Wipro / Mastercard
+* 2017 1yr 8mo - DevOps Engineer: Chef, Jenkins at Wipro / Mastercard
 * 2017 9 months - DevOps Engineer: OpenShift (Kubernetes) at Copel Telecom
 * 2013 3 years - Tech lead (support): Oracle planning & optimization at Wipro
 * 2012 1.5 year - Consultant & support: Oracle planning & optimization at Wipro
@@ -45,7 +45,7 @@ Willing to relocate.
   - JavaScript
     - 2016+ ES6
     - 2010 jQuery
-    - 2008 browser-native programming
+    - 2008 & 2009 browser-native programming
   - UI
     - 2016 Bootstrap v4 responsive grid - [samples](https://codepen.io/stroparo/full/qmLOYj/)
 * DevOps / Infrastructure
