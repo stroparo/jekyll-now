@@ -91,7 +91,7 @@ Willing to relocate.
 ### 2013 - 4 years - Tech lead at Logic Information Systems LATAM in Curitiba, Brazil
 
 * Main activity: Manage a support team of serveral Oracle Planning & Optimization applications
-* Technologies: Oracle Fusion Middleware, Oracle RPAS, Unix shell scripting (Bash & Korn a.k.a. ksh)
+* Technologies: Oracle Fusion Middleware, Oracle RPAS, shell scripting (bash & ksh)
 * Major contributions:
   - Implemented release automation: deployment and operation scripts
   - Scaled release automation scripts across customers
@@ -101,14 +101,14 @@ Willing to relocate.
 
 * Main activity: Maintenance and support of Oracle Planning & Optimization applications
 * Other activities: Technical implementation specialist for one project
-* Technologies: Java, Oracle RPAS, Unix shell scripting (Bash & Korn a.k.a. Ksh)
+* Technologies: Java, Oracle RPAS, shell scripting (bash & ksh)
 * Major contributions:
   - Implemented all the operations shell scripts for one customer
 
 ### 2010 - 1.5 year - Support Trainee at Wipro LATAM in Curitiba, Brazil
 
 * Main activity: Maintenance and support of Oracle Planning & Optimization applications
-* Technologies: Java, Oracle RPAS, Unix shell scripting (Bash & Korn a.k.a. Ksh)
+* Technologies: Java, Oracle RPAS, Unix shell scripting (bash & ksh)
 * Major contributions:
   - Implemented utility to validate registered calc rules versus project-time source specs
 
@@ -137,7 +137,7 @@ Willing to relocate.
 * 2015 - Oracle Predictive Application Server Bootcamp - Oracle - Abernathy (Atlanta), USA
 * 2010 - Bachelor in Computer Science - UFPR - Curitiba, Brazil
 
-See more certificates at [my LinkedIn profile](https://linkedin.com/in/stroparo).
+See more certificates in [my LinkedIn profile](https://linkedin.com/in/stroparo).
 
 ## Open Source
 
