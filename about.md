@@ -19,7 +19,7 @@ Willing to relocate.
 
 ## Quick info on experience
 
-* 2019 July ... - Software Engineer: Java, Spring at Wipro / Mastercard
+* 2019 July ... - Software Engineer: Java, Spring, Chef, Jenkins at Wipro / Mastercard
 * 2017 1yr 8mo - DevOps Engineer: Chef, Salt, Jenkins at Wipro / Mastercard
 * 2017 9 months - DevOps Engineer: OpenShift (Kubernetes) at Copel Telecom
 * 2013 4 years - Tech lead (support): Oracle planning & optimization applications
@@ -59,7 +59,7 @@ Willing to relocate.
 * 2017/09 - 2019/07
   - Software Engineer at Wipro / Mastercard
   - Main activity: Software Engineering developing features and maintaining Smart Interface Server (Emvco spec v2)
-  - Technologies: Java, Maven, JavaScript
+  - Technologies: Java, Maven, JavaScript, Chef, Jenkins (Groovy), shell scripting
   - Major contributions
     - Implemented system startup fault tolerance flow for data streaming platform
     - Release: release ownership & support for core Smart Interface Server & Admin
@@ -67,7 +67,7 @@ Willing to relocate.
 * 2017/09 - 2019/05
   - DevOps Engineer at Wipro / Mastercard
   - Main activity: DevOps Enablement Project and Chef cookbook maintenance & support
-  - Technologies: Chef (Ruby), Docker, Jenkins (Groovy), Java, Maven, Python
+  - Technologies: Chef (Ruby), TestKitchen, Jenkins (Groovy), Java, Maven, Python, shell scripting
 * 2016/12
   - Support Analyst at Copel
   - Main activity: OpenShift on-premises platform maintenance & support
