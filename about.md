@@ -98,7 +98,7 @@ This is a summary. For detailed information see [the Experience section](#experi
   - Scaled release automation scripts across customers
   - Gave shell script training to trainees and seniors
 
-### 2012/01 - 1.5 year - Support Cosultant Analyst at Wipro LATAM in Curitiba, Brazil
+### 2012/01 - 1.5 year - Support Cosultant Analyst at Wipro LATAM - Curitiba, Brazil
 
 * Main activity: Maintenance and support of Oracle Planning & Optimization applications
 * Other activities: Technical implementation specialist for one project
@@ -106,7 +106,7 @@ This is a summary. For detailed information see [the Experience section](#experi
 * Major contributions:
   - Implemented all the operations shell scripts for one customer
 
-### 2010/04 - 1.5 year - Support Trainee at Wipro LATAM in Curitiba, Brazil
+### 2010/04 - 1.5 year - Support Trainee at Wipro LATAM - Curitiba, Brazil
 
 * Main activity: Maintenance and support of Oracle Planning & Optimization applications
 * Technologies: Java, Oracle RPAS, Unix shell scripting (bash & ksh)
