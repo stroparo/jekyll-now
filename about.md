@@ -19,14 +19,14 @@ Willing to relocate.
 
 ## Quick info on experience
 
-* 2019 July ... - Software Engineer: Java +Spring at Wipro / Mastercard
+* 2019 July ... - Software Engineer: Java, Spring at Wipro / Mastercard
 * 2017 1yr 8mo - DevOps Engineer: Chef, Salt, Jenkins at Wipro / Mastercard
 * 2017 9 months - DevOps Engineer: OpenShift (Kubernetes) at Copel Telecom
 * 2013 4 years - Tech lead (support): Oracle planning & optimization applications
 * 2011 2 years - Consultant & support: Oracle planning & optimization applications
 * 2010 1 year - Support Trainee: Oracle planning & optimization applications
-* 2009 1 year - Java Developer trainee (financial application for telecom industry) at Voxel (extinct)
-* 2008 1 year - Java Developer trainee & Python law proposition data migration at Curitiba City Council
+* 2009 1 year - Java Developer Trainee (financial application for telecom industry) at Voxel (extinct)
+* 2008 1 year - Java Developer Trainee: Java, Python data migration at Curitiba City Council
 * 2006 1 year - Delphi Developer intern at Copel Energia (Transmission component inventory system)
 
 ## Skills
@@ -93,7 +93,7 @@ Willing to relocate.
 * 2017 - AWS Technical Professional Accreditation - Amazon Partner Network
 * 2016 - Python 3 Essential Training - LinkedIn
 * 2016 - [Front-end Development at freeCodeCamp](https://www.freecodecamp.org/stroparo) (partial)
-* 2015 - ITILv3 Foundation Certification - Axelos / Exin
+* 2015 - ITILv3 Foundation Certification - reg. 5469797.20444789 - Axelos / Exin
 * 2015 - Oracle Predictive Application Server Bootcamp - Oracle - Abernathy (Atlanta), USA
 * 2010 - Bachelor in Computer Science - UFPR - Curitiba, Brazil
 
