@@ -135,7 +135,7 @@ This is a summary. For detailed information see [the Experience section](#experi
 * 2016 - Python 3 Essential Training - LinkedIn
 * 2016 - [Front-end Development at freeCodeCamp](https://www.freecodecamp.org/stroparo) (partial)
 * 2015 - ITILv3 Foundation Certification - reg. 5469797.20444789 - Axelos / Exin
-* 2015 - Oracle Predictive Application Server Bootcamp - Oracle - Abernathy/Atlanta, USA
+* 2015 - Predictive Application Server Bootcamp - Oracle - Abernathy (Atlanta), USA
 * 2010 - Bachelor in Computer Science - UFPR - Curitiba, Brazil
 
 See more certificates in [my LinkedIn profile](https://linkedin.com/in/stroparo).
