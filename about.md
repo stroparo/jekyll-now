@@ -22,9 +22,9 @@ Willing to relocate.
 * 2019 July ... - Software Engineer: Java, Spring, Jenkins, Chef at Wipro / Mastercard
 * 2017 1yr 8mo - DevOps Engineer: Chef, Salt, Jenkins at Wipro / Mastercard
 * 2017 9 months - DevOps Engineer: OpenShift (Kubernetes) at Copel Telecom
-* 2013 4 years - Tech lead (support): Oracle planning & optimization at Wipro
-* 2011 2 years - Consultant & support: Oracle planning & optimization at Wipro
-* 2010 1 year - Support Trainee: Oracle planning & optimization at Wipro
+* 2013 3 years - Tech lead (support): Oracle planning & optimization at Wipro
+* 2012 1.5 year - Consultant & support: Oracle planning & optimization at Wipro
+* 2010 1.5 year - Support Trainee: Oracle planning & optimization at Wipro
 * 2009 1 year - Java Developer Trainee: Java, Oracle at Voxel (extinct)
 * 2008 1 year - Java Developer Trainee: Java, Python at Curitiba City Council
 * 2006 1 year - Developer Intern: Delphi, Oracle at Copel Energia
@@ -53,64 +53,79 @@ Willing to relocate.
   - Jenkins & pipeline maintenance, 2017+
   - Docker & Kubernetes (OpenShift) 2017 (9 months)
   - Linux / Unix shell scripting (Bash & Korn a.k.a. ksh), 2010+
-  
+
+---
+
 ## Experience
 
-* 2019/07 - Now
-  - Software Engineer at Wipro / Mastercard in Curitiba, Brazil
-  - Main activity: Developer for Mastercard's Smart Interface (Emvco spec v2)
-  - Technologies: Java, Maven, JavaScript, Chef, Jenkins (Groovy), shell scripting (bash & ksh)
-  - Major contributions
-    - Implemented system startup fault tolerance flow for data streaming platform
-    - Release ownership & support for core Smart Interface Server & Admin
-    - Release / DevOps: release pipeline operation support for the Admin application
-* 2017/09 - 1 year 8 months (2019/05)
-  - DevOps Engineer at Wipro / Mastercard in Curitiba, Brazil
-  - Main activity: Jenkins pipelines and Chef cookbook maintenance and support
-  - Technologies: Chef (Ruby), TestKitchen, Jenkins (Groovy), Java, Maven, shell scripting (bash & ksh)
-  - Major contributions:
-    - Worked with senior engineering on new Maven release scripts and Git shell wrappers
-    - Owned one of the Chef cookbook ecosystem releases before it was automated
-* 2016/12 - 9 months
-  - Support Analyst at Copel Telecom in Curitiba, Brazil
-  - Main activity: OpenShift on-premises platform maintenance & support
-  - Other activities:
-    - SysAdmin of on-premises services like GitLab and Jenkins
-  - Technologies: OpenShift, Git, Python, shell scripting (bash & ksh)
-  - Major contributions:
-    - Reimplemented all operation scripts (bash) for GitLab and OpenShift jobs (Jenkins)
-    - Implemented CI/CD release via image pulling in OpenShift (ImageStreams)
-    - Implemented an initial testing suite for those operation scripts
-    - Supported Git training sessions for 100+ developers
-    - Supported training legacy Delphi developers for special release procedure
-* 2013 - 4 years
-  - Tech lead at Logic Information Systems LATAM in Curitiba, Brazil
-  - Main activity: Manage a support team of serveral Oracle Planning & Optimization applications
-  - Technologies: Oracle Fusion Middleware, Oracle RPAS, Unix shell scripting (Bash & Korn a.k.a. ksh)
-  - Major contributions:
-    - Implemented release automation: deployment and operation scripts
-    - Scaled release automation scripts across customers
-    - Gave shell script training to trainees and seniors
-* 2010 - 3 years
-  - Support Cosultant Analyst (2011+), Trainee (2010) at Wipro LATAM in Curitiba, Brazil
-  - Main activity: Maintenance and support of Oracle Planning & Optimization applications
-  - Other activities: Technical implementation specialist for one project
-  - Technologies: Java, Oracle RPAS, Unix shell scripting (Bash & Korn a.k.a. Ksh)
-  - Major contributions:
-    - Java program to crosscheck internal platform rules versus high-level configurations
-    - Implemented all the operations shell scripts for one customer
-* 2006 - 3 years
-  - Internship & Trainee programs
-    - 2009 1 year - Java Developer Trainee at Voxel (extinct) in Curitiba, Brazil
-      - Main activity: Telecom industry financial batch report customization across customers
-      - Technologies: Java, JasperReports, Oracle
-    - 2008 1 year - Java Developer Trainee at Curitiba City Council, Brazil
-      - Main activity: Java development for new SPL v2 law proposition system
-      - Additional task: Python data migration from Lotus Notes to SPL v2
-      - Technologies: Java, Python, PostgreSQL
-    - 2006 1 year - Developer Intern at Copel Energia in Curitiba, Brazil
-      - Main activity: Screen development of inventory managament system for transmission components
-      - Technologies: Delphi, Oracle
+### 2019/07 - Now - Software Engineer at Wipro / Mastercard in Curitiba, Brazil
+
+* Main activity: Developer for Mastercard's Smart Interface (Emvco spec v2)
+* Technologies: Java, Maven, JavaScript, Chef, Jenkins (Groovy), shell scripting (bash & ksh)
+* Major contributions
+  - Implemented system startup fault tolerance flow for data streaming platform
+  - Release ownership & support for core Smart Interface Server & Admin
+  - Release / DevOps: release pipeline operation support for the Admin application
+
+### 2017/09 - 1yr 8mo (2019/05) - DevOps Engineer at Wipro / Mastercard in Curitiba, Brazil
+
+* Main activity: Jenkins pipelines and Chef cookbook maintenance and support
+* Technologies: Chef (Ruby), TestKitchen, Jenkins (Groovy), Java, Maven, shell scripting (bash & ksh)
+* Major contributions:
+  - Worked with senior engineering on new Maven release scripts and Git shell wrappers
+  - Owned one of the Chef cookbook ecosystem releases before it was automated
+
+### 2016/12 - 9 months - Support Analyst at Copel Telecom in Curitiba, Brazil
+
+* Main activity: OpenShift on-premises platform maintenance & support
+* Other activities:
+  - SysAdmin of on-premises services like GitLab and Jenkins
+* Technologies: OpenShift, Git, Python, shell scripting (bash & ksh)
+* Major contributions:
+  - Reimplemented all operation scripts (bash) for GitLab and OpenShift jobs (Jenkins)
+  - Implemented CI/CD release via image pulling in OpenShift (ImageStreams)
+  - Implemented an initial testing suite for those operation scripts
+  - Supported Git training sessions for 100+ developers
+  - Supported training legacy Delphi developers for special release procedure
+
+### 2013 - 4 years - Tech lead at Logic Information Systems LATAM in Curitiba, Brazil
+
+* Main activity: Manage a support team of serveral Oracle Planning & Optimization applications
+* Technologies: Oracle Fusion Middleware, Oracle RPAS, Unix shell scripting (Bash & Korn a.k.a. ksh)
+* Major contributions:
+  - Implemented release automation: deployment and operation scripts
+  - Scaled release automation scripts across customers
+  - Gave shell script training to trainees and seniors
+
+### 2012 - 1.5 year - Support Cosultant Analyst at Wipro LATAM in Curitiba, Brazil
+
+* Main activity: Maintenance and support of Oracle Planning & Optimization applications
+* Other activities: Technical implementation specialist for one project
+* Technologies: Java, Oracle RPAS, Unix shell scripting (Bash & Korn a.k.a. Ksh)
+* Major contributions:
+  - Implemented all the operations shell scripts for one customer
+
+### 2010 - 1.5 year - Support Trainee at Wipro LATAM in Curitiba, Brazil
+
+* Main activity: Maintenance and support of Oracle Planning & Optimization applications
+* Technologies: Java, Oracle RPAS, Unix shell scripting (Bash & Korn a.k.a. Ksh)
+* Major contributions:
+  - Implemented utility to validate registered calc rules versus project-time source specs
+
+### 2006 - 3 years - Internship & Trainee programs
+
+* 2009 1 year - Java Developer Trainee at Voxel (extinct) in Curitiba, Brazil
+  - Main activity: Telecom industry financial batch report customization across customers
+  - Technologies: Java, JasperReports, Struts, Oracle
+* 2008 1 year - Java Developer Trainee at Curitiba City Council, Brazil
+  - Main activity: Java development for new SPL v2 law proposition system
+  - Additional task: Python data migration from Lotus Notes to SPL v2
+  - Technologies: Java, Python, PostgreSQL, Tomcat, PHP
+* 2006 1 year - Developer Intern at Copel Energia in Curitiba, Brazil
+  - Main activity: Screen development of inventory managament system for transmission components
+  - Technologies: Delphi, Oracle
+
+---
 
 ## Education
 
