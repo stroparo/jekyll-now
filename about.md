@@ -22,42 +22,52 @@ Willing to relocate.
 * 2019 July ... - Software Engineer: Java +Spring at Wipro / Mastercard
 * 2017 1yr 8mo - DevOps Engineer: Chef, Salt, Jenkins at Wipro / Mastercard
 * 2017 9 months - DevOps Engineer: OpenShift (Kubernetes) at Copel Telecom
-* 2013 3 years - Tech lead: Oracle planning & optimization applications support
-* 2011 2 years - Consultant: Oracle Retail planning & optimization applications
-* 2010 1 year - Support Trainee: Oracle Retail planning & optimization applications
+* 2013 4 years - Tech lead (support): Oracle planning & optimization applications
+* 2011 2 years - Consultant & support: Oracle planning & optimization applications
+* 2010 1 year - Support Trainee: Oracle planning & optimization applications
 * 2009 1 year - Java Developer trainee (financial application for telecom industry) at Voxel (extinct)
 * 2008 1 year - Java Developer trainee & Python law proposition data migration at Curitiba City Council
 * 2006 1 year - Delphi Developer intern at Copel Energia (Transmission component inventory system)
 
 ## Skills
 
-* DevOps / Infrastructure
-  - Chef cookbook maintenance, 2017+
-  - Jenkins maintenance, 2017+
-  - Docker & Kubernetes (OpenShift) 2016+
-  - Linux/Unix and shell scripting, 2010+
-* Front-end web development
-  - Bootstrap v4 responsive grid ([samples](https://codepen.io/stroparo/full/qmLOYj/))
-  - JavaScript / ES6+, 2016+
-  - JavaScript / jQuery, 2011+
 * Back-end development
-  - Python 2010+, 214 IQ score on Pluralsight (expert) as of 2017
-  - Java, 2008+
-
-At current position:
-
-* Chef Automation & Configuration Management (Ruby language and Chef's DSL)
-* Jenkins CI/CD Pipelines (Groovy language and shell scripting)
   - Java
-  - Maven
-  - Artifactory
+    - 2019/2020: Spring Boot v4
+    - 2009: Struts, Oracle (trainee)
+    - 2008: JSP, servlets, Tomcat, PostgreSQL (trainee)
+  - Python 2010+
+    - 2017: 214 IQ score on Pluralsight (expert)
+    - 2016: Python 3 Essential Training - LinkedIn
+    - 2010: 2 Django projects (freelance)
+    - 2008: Data migration program (trainee)
+* Front-end web development
+  - JavaScript
+    - 2016+ ES6
+    - 2010 jQuery
+    - 2008 browser-native programming
+  - UI
+    - 2016 Bootstrap v4 responsive grid - [samples](https://codepen.io/stroparo/full/qmLOYj/)
+* DevOps / Infrastructure
+  - Configuration management with Chef, 2017+
+  - Jenkins & pipeline maintenance, 2017+
+  - Docker & Kubernetes (OpenShift) 2017 (9 months)
+  - Linux / Unix shell scripting (Bash & Korn a.k.a. ksh), 2010+
   
 ## Experience
 
-* 2017/09 - Present
-  - DevOps Engineer at Wipro (Mastercard)
+* 2017/09 - 2019/07
+  - Software Engineer at Wipro / Mastercard
+  - Main activity: Software Engineering developing features and maintaining Smart Interface Server (Emvco spec v2)
+  - Technologies: Java, Maven, JavaScript
+  - Major contributions
+    - Implemented system startup fault tolerance flow for data streaming platform
+    - Release: release ownership & support for core Smart Interface Server & Admin
+    - Release / DevOps: CI/CD Jenkins pipeline operation support for the admin application
+* 2017/09 - 2019/05
+  - DevOps Engineer at Wipro / Mastercard
   - Main activity: DevOps Enablement Project and Chef cookbook maintenance & support
-  - Technologies: Chef, Docker, Groovy, Java, Jenkins, Maven, Python, Ruby
+  - Technologies: Chef (Ruby), Docker, Jenkins (Groovy), Java, Maven, Python
 * 2016/12
   - Support Analyst at Copel
   - Main activity: OpenShift on-premises platform maintenance & support
@@ -79,12 +89,12 @@ At current position:
 
 ## Education
 
-* 2019 - [Java track at DevMedia](https://www.devmedia.com.br/guia/programador-java/37809)
-* 2019 - [Front-end Development at freeCodeCamp](https://www.freecodecamp.org/stroparo)
+* 2019 - [Java track at DevMedia](https://www.devmedia.com.br/guia/programador-java/37809) (introductory tracks)
 * 2017 - AWS Technical Professional Accreditation - Amazon Partner Network
 * 2016 - Python 3 Essential Training - LinkedIn
+* 2016 - [Front-end Development at freeCodeCamp](https://www.freecodecamp.org/stroparo) (partial)
 * 2015 - ITILv3 Foundation Certification - Axelos / Exin
-* 2015 - Oracle Predictive Application Server Bootcamp - Oracle - Abernathy, USA
+* 2015 - Oracle Predictive Application Server Bootcamp - Oracle - Abernathy (Atlanta), USA
 * 2010 - Bachelor in Computer Science - UFPR - Curitiba, Brazil
 
 See more certificates at [my LinkedIn profile](https://linkedin.com/in/stroparo).
