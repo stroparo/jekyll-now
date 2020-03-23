@@ -20,12 +20,12 @@ Willing to relocate.
 
 Quick summary of experiences. For detailed information see [the Experience section](#experience).
 
-* 2019/July... - Software Engineer in Financial Identity (EMVCo v2 Smart Interface Server)
+* 2019/July... - Software Engineer in Financial Identity (EMVCo v2 Smart Interface)
 * 2017 1.5 years - DevOps Engineer (Chef & Jenkins) in Financial Fraud & Compliance
 * 2017 9 months - DevOps Engineer (OpenShift/Kubernetes) in Telecom
 * 2013 3 years - Tech Lead (support) in Oracle planning & Optimization platforms
 * 2010 3 years - Oracle Consultant in Planning & Optimization platforms
-* 2008 2 years - Java Developer in Law and Government and Telecom - Trainee programs
+* 2008 2 years - Java Developer in Law and Government and Telecom - 2 Trainee
 * 2006 1 year - Developer in Energy Industry logistics platform - Internship
 
 ## Skills
@@ -142,7 +142,7 @@ Quick summary of experiences. For detailed information see [the Experience secti
 * 2017 - AWS Technical Professional Accreditation - Amazon Partner Network
 * 2016 - Python 3 Essential Training - LinkedIn
 * 2016 - [Front-end Development at freeCodeCamp](https://www.freecodecamp.org/stroparo) (partial)
-* 2015 - ITILv3 Foundation Certification reg. 5469797.20444789 - 2015-08-28 - Axelos / Exin
+* 2015 - ITILv3 Foundation Certification reg. 5469797.20444789 - Axelos / Exin
 * 2015 - Predictive Application Server Bootcamp - Oracle - Abernathy (Atlanta), USA
 * 2010 - Bachelor in Computer Science - UFPR - Curitiba, Brazil
 
