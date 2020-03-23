@@ -47,7 +47,7 @@ Quick summary of experiences. For detailed information see [the Experience secti
 * Industry: Financial Authentication / Identity
 * Activity: Development & Maintenance of EMVCo v2 Smart Interface Server
 * Technologies: Java, Maven, JavaScript, Chef, Jenkins (Groovy), shell scripting in RHEL (Linux)
-* Major contributions
+* Major contributions:
   - Implemented system startup fault tolerance flow for data streaming platform
   - Release ownership & support for Smart Interface Server and its Admin application
   - Release support during deployment of the Smart Interface Admin application
