@@ -113,17 +113,24 @@ This is a summary. For detailed information see [the Experience section](#experi
 * Major contributions:
   - Implemented utility to validate registered calc rules versus project-time source specs
 
-### 2006 - 3 years - Internship & Trainee programs
+### 2006 to 2009 - Internship & Trainee programs
 
-* 2009 1 year - Java Developer Trainee at Voxel (extinct) in Curitiba, Brazil
-  - Main activity: Telecom industry financial batch report customization across customers
-  - Technologies: Java, JasperReports, Struts, Oracle
-* 2008 1 year - Java Developer Trainee at Curitiba City Council, Brazil
-  - Main activity: Java development for new SPL v2 law proposition system
-  - Additional task: Python data migration from Lotus Notes to SPL v2
-  - Technologies: Java, Python, PostgreSQL, Tomcat, PHP
-* 2006 1 year - Developer Intern at Copel Energia in Curitiba, Brazil
-  - Main activity: Screen development of inventory managament system for transmission components
+* Java Developer Trainee at Voxel (extinct)
+  - 7 months - 2009/10 - 2010/04 - Curitiba, Brazil
+  - Industry: Telecom industry
+  - Activity: Financial daily batch interconnection report implementations
+  - Other activity: Fullstack development of financial system screens
+  - Technologies: Java, JavaScript, JasperReports, Struts, Oracle, GNU/Linux, shell scripting
+* Java Developer Trainee at Curitiba City Council, Brazil
+  - 1 year - 2008/09 - 2009/09 - Curitiba, Brazil
+  - Industry: Law and Government
+  - Activity: Java Full Stack Development for new SPL v2 law proposition system
+  - Other activity: Python data migration from Lotus Notes to SPL v2
+  - Technologies: Java, JSP, Python, PostgreSQL, Subversion, Tomcat, Web (HTML, CSS, JavaScript, PHP)
+* Developer Intern at Copel Energia
+  - 1 year 3 months - 2006/02 - 2007/05 - Curitiba, Brazil
+  - Industry: Energy transmission
+  - Activity: Develop and maintain logistics servicing user interface
   - Technologies: Delphi, Oracle
 
 ---
