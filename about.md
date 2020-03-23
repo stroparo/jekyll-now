@@ -32,9 +32,10 @@ Quick summary of experiences. For detailed information see [the Experience secti
 
 * Back-end development with Java & Spring Boot
 * Front-end web development: ES6+, Bootstrap v4 ([samples](https://codepen.io/stroparo/full/qmLOYj/))
-* DevOps / Infrastructure: Chef, Docker & Kubernetes (OpenShift), Jenkins, shell scripting (bash & ksh)
+* DevOps: Chef, Docker, GNU/Linux, OpenShift, Jenkins, shell scripting
 * Python: 214 IQ expert (Pluralsight), data scrapping, selenium jobs
-* SQL 10+ years, and also basic DBA functions (database service, tablespaces, schemas and access)
+* SQL 10+ years plus basic DBA (OS service, tablespace, schema and access)
+* Tech Lead (3 years in a support team)
 
 ---
 
