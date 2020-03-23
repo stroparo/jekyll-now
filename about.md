@@ -30,28 +30,11 @@ Quick summary of experiences. For detailed information see [the Experience secti
 
 ## Skills
 
-* Back-end development
-  - Java
-    - 2019/2020: Spring Boot v4
-    - 2009: Struts, Oracle (trainee)
-    - 2008: JSP, servlets, Tomcat, PostgreSQL (trainee)
-  - Python 2010+
-    - 2017: 214 IQ score on Pluralsight (expert)
-    - 2016: Python 3 Essential Training - LinkedIn
-    - 2010: 2 Django projects (freelance)
-    - 2008: Data migration program (trainee)
-* Front-end web development
-  - JavaScript
-    - 2016+ ES6
-    - 2010 jQuery
-    - 2008 & 2009 browser-native programming
-  - UI
-    - 2016 Bootstrap v4 responsive grid - [samples](https://codepen.io/stroparo/full/qmLOYj/)
-* DevOps / Infrastructure
-  - Configuration management with Chef, 2017+
-  - Jenkins & pipeline maintenance, 2017+
-  - Docker & Kubernetes (OpenShift) 2017 (9 months)
-  - Linux / Unix shell scripting (Bash & Korn a.k.a. ksh), 2010+
+* Back-end development with Java & Spring Boot
+* Front-end web development: ES6+, Bootstrap v4 ([samples](https://codepen.io/stroparo/full/qmLOYj/))
+* DevOps / Infrastructure: Chef, Docker & Kubernetes (OpenShift), Jenkins, shell scripting (bash & ksh)
+* Python: 214 IQ expert (Pluralsight), data scrapping, selenium jobs
+* SQL 10+ years, and also basic DBA functions (database service, tablespaces, schemas and access)
 
 ---
 
