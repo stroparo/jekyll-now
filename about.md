@@ -126,7 +126,7 @@ Quick summary of experiences. For detailed information see [the Experience secti
 * Other activity: Python data migration from Lotus Notes to SPL v2
 * Technologies: Java, JSP, Python, PostgreSQL, Subversion, Tomcat, Web (HTML, CSS, JavaScript, PHP)
 
-### Developer Intern - 1 year 3 months
+### Software Developer Intern - 1 year 3 months
 
 * Period & location: 2006/02 - 2007/05 - Copel Energia, Curitiba, Brazil
 * Industry: Energy transmission
