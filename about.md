@@ -21,7 +21,7 @@ Willing to relocate.
 Quick summary of experiences. For detailed information see [the Experience section](#experience).
 
 * 2019/July... - Software Engineer in Financial Authentication / EMVCO v2 spec
-* 2017 1yr 8mo - DevOps Engineer (Chef & Jenkins) in Financial Fraud & Compliance
+* 2017 1.5 years - DevOps Engineer (Chef & Jenkins) in Financial Fraud & Compliance
 * 2017 9 months - DevOps Engineer (OpenShift/Kubernetes) in Telecom
 * 2013 3 years - Tech Lead (support) in Oracle planning & Optimization platforms
 * 2010 3 years - Oracle Consultant in Planning & Optimization platforms
@@ -74,22 +74,26 @@ Quick summary of experiences. For detailed information see [the Experience secti
   - Worked with senior engineering on new Maven release scripts and Git shell wrappers
   - Owned one of the Chef cookbook ecosystem releases before it was automated
 
-### 2016/12 - 9 months - Support Analyst at Copel Telecom - Curitiba, Brazil
+### DevOps Engineer (PaaS team) - 9 months
 
-* Main activity: OpenShift on-premises platform maintenance & support
-* Other activities:
-  - SysAdmin of on-premises services like GitLab and Jenkins
-* Technologies: OpenShift, Git, Python, shell scripting (bash & ksh)
+* Period & location: 2016/12 - 2017/09 - Copel Telecom, Curitiba, Brazil
+* Industry: Energy & Telecom
+* Activity: OpenShift on-premises platform maintenance & support
+* Other activity: Administrate GitLab versioning service and Jenkins CI/CD jobs
+* Other activity #2: Liaison with Development and Architecture teams
+* Technologies: OpenShift (Kubernetes), Git, Python, shell scripting in RHEL (Linux)
 * Major contributions:
-  - Reimplemented all operation scripts (bash) for GitLab and OpenShift jobs (Jenkins)
+  - Reimplemented all ops (Bash scripts) for GitLab and OpenShift projects
+  - Setup of Jenkins jobs for the GitLab/OpenShift scripts
   - Implemented CI/CD release via image pulling in OpenShift (ImageStreams)
-  - Implemented an initial testing suite for those operation scripts
+  - Implemented an initial testing suite for the ops scripts
   - Supported Git training sessions for 100+ developers
-  - Supported training legacy Delphi developers for special release procedure
+  - Gave release automation training to Delphi developers
 
 ### Tech Lead (Support) - 3 years 5 months
 
 * Period & location: 2013/06 - 2016/11 - Logic LATAM, Curitiba, Brazil
+* Industry: Retail
 * Activity: Manage a support team of serveral Oracle Planning & Optimization applications
 * Technologies: Oracle Fusion Middleware, Oracle RPAS, shell scripting in IBM AIX & GNU/Linux
 * Major contributions:
@@ -100,6 +104,7 @@ Quick summary of experiences. For detailed information see [the Experience secti
 ### Oracle Support Consultant - 1 year 5 months
 
 * Period & location: 2012/01 - 2013/05 - Wipro LATAM, Curitiba, Brazil
+* Industry: Retail
 * Activity: Oracle Planning & Optimization applications support & implementation
 * Other activity: Technical implementation specialist
 * Technologies: Java, Oracle RPAS, shell scripting in IBM AIX & GNU/Linux
@@ -110,6 +115,7 @@ Quick summary of experiences. For detailed information see [the Experience secti
 ### Oracle Support Trainee - 1 year 8 months
 
 * Period & location: 2010/04 - 2011/12 - Wipro LATAM, Curitiba, Brazil
+* Industry: Retail
 * Activity: Maintenance and support of Oracle Planning & Optimization applications
 * Technologies: Java, Oracle RPAS, shell scripting in IBM AIX
 * Major contributions:
