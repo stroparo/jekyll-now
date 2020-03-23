@@ -20,7 +20,7 @@ Willing to relocate.
 
 Quick summary of experiences. For detailed information see [the Experience section](#experience).
 
-* 2019/July... - Software Engineer in Financial Authentication / EMVCO v2 spec
+* 2019/July... - Software Engineer in Financial Auth (EMVCo v2 Smart Interface Server)
 * 2017 1.5 years - DevOps Engineer (Chef & Jenkins) in Financial Fraud & Compliance
 * 2017 9 months - DevOps Engineer (OpenShift/Kubernetes) in Telecom
 * 2013 3 years - Tech Lead (support) in Oracle planning & Optimization platforms
@@ -57,19 +57,23 @@ Quick summary of experiences. For detailed information see [the Experience secti
 
 ## Experience
 
-### 2019/07 - Now - Software Engineer at Wipro / Mastercard - Curitiba, Brazil
+### Software Engineer - Current job since July, 2019
 
-* Main activity: Developer for Mastercard's Smart Interface (Emvco spec v2)
-* Technologies: Java, Maven, JavaScript, Chef, Jenkins (Groovy), shell scripting (bash & ksh)
+* Period & location: 2019/07 - present - Wipro / Mastercard, Curitiba, Brazil
+* Activity: Development & Maintenance of EMVCo v2 Smart Interface Server
+* Industry: Financial Authentication / Identity
+* Technologies: Java, Maven, JavaScript, Chef, Jenkins (Groovy), shell scripting in RHEL (Linux)
 * Major contributions
   - Implemented system startup fault tolerance flow for data streaming platform
-  - Release ownership & support for core Smart Interface Server & Admin
-  - Release / DevOps: release pipeline operation support for the Admin application
+  - Release ownership & support for Smart Interface Server and its Admin application
+  - Release support during deployment of the Smart Interface Admin application
 
-### 2017/09 - 1yr 8mo - DevOps Engineer at Wipro / Mastercard - Curitiba, Brazil
+### DevOps Engineer - 1 year 7 months
 
-* Main activity: Jenkins pipelines and Chef cookbook maintenance and support
-* Technologies: Chef (Ruby), TestKitchen, Jenkins (Groovy), Java, Maven, shell scripting (bash & ksh)
+* Period & location: 2017/10 - 2019/04 - Wipro / Mastercard, Curitiba, Brazil
+* Activity: Jenkins pipeline and Chef cookbook maintenance and support
+* Industry: Financial Fraud & Compliance
+* Technologies: Chef (Ruby), TestKitchen, Jenkins (Groovy), Maven, shell scripting in RHEL (Linux)
 * Major contributions:
   - Worked with senior engineering on new Maven release scripts and Git shell wrappers
   - Owned one of the Chef cookbook ecosystem releases before it was automated
@@ -149,15 +153,16 @@ Quick summary of experiences. For detailed information see [the Experience secti
 
 ## Education
 
-* 2019 - [Modern Java introductory tracks - DevMedia](https://www.devmedia.com.br/guia/programador-java/37809)
+* 2020 - Java 8 Essential Training - LinkedIn
+* 2019 - Java introductory tracks - DevMedia (Brazilian e-learning)
 * 2017 - AWS Technical Professional Accreditation - Amazon Partner Network
 * 2016 - Python 3 Essential Training - LinkedIn
 * 2016 - [Front-end Development at freeCodeCamp](https://www.freecodecamp.org/stroparo) (partial)
-* 2015 - ITILv3 Foundation Certification - reg. 5469797.20444789 - Axelos / Exin
+* 2015 - ITILv3 Foundation Certification reg. 5469797.20444789 - 2015-08-28 - Axelos / Exin
 * 2015 - Predictive Application Server Bootcamp - Oracle - Abernathy (Atlanta), USA
 * 2010 - Bachelor in Computer Science - UFPR - Curitiba, Brazil
 
-See more certificates in [my LinkedIn profile](https://linkedin.com/in/stroparo).
+See more certificates in [my LinkedIn profile](https://linkedin.com/in/stroparo) (refer to the Licenses & Certifications section).
 
 ## Open Source
 
