@@ -100,7 +100,7 @@ Quick summary of experiences. For detailed information see [the Experience secti
   - Complete job scripting implementation for a platform sold by Wipro
   - Production deployment execution in a customer site
 
-### Oracle Support Trainee - 1 year 8 months
+### Oracle Support Analyst - 1 year 8 months
 
 * Period & location: 2010/04 - 2011/12 - Wipro LATAM, Curitiba, Brazil
 * Industry: Retail
