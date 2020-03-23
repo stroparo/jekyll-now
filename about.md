@@ -18,17 +18,15 @@ Willing to relocate.
 
 ## Quick info on experience
 
-This is a summary. For detailed information see [the Experience section](#experience).
+Quick summary of experiences. For detailed information see [the Experience section](#experience).
 
-* 2019 July ... - Software Engineer: Java, Spring, Jenkins, Chef at Wipro / Mastercard
-* 2017 1yr 8mo - DevOps Engineer: Chef, Jenkins at Wipro / Mastercard
-* 2017 9 months - DevOps Engineer: OpenShift (Kubernetes) at Copel Telecom
-* 2013 3 years - Tech lead (support): Oracle planning & optimization at Wipro
-* 2012 1.5 year - Consultant & support: Oracle planning & optimization at Wipro
-* 2010 1.5 year - Support Trainee: Oracle planning & optimization at Wipro
-* 2009 1 year - Java Developer Trainee: Java, Oracle at Voxel (extinct)
-* 2008 1 year - Java Developer Trainee: Java, Python at Curitiba City Council
-* 2006 1 year - Developer Intern: Delphi, Oracle at Copel Energia
+* 2019/July... - Software Engineer in Financial Authentication / EMVCO v2 spec
+* 2017 1yr 8mo - DevOps Engineer (Chef & Jenkins) in Financial Fraud & Compliance
+* 2017 9 months - DevOps Engineer (OpenShift/Kubernetes) in Telecom
+* 2013 3 years - Tech Lead (support) in Oracle planning & Optimization platforms
+* 2010 3 years - Oracle Consultant in Planning & Optimization platforms
+* 2008 2 years - Java Developer in Law and Government and Telecom - Trainee programs
+* 2006 1 year - Developer in Energy Industry logistics platform - Internship
 
 ## Skills
 
@@ -89,7 +87,7 @@ This is a summary. For detailed information see [the Experience section](#experi
   - Supported Git training sessions for 100+ developers
   - Supported training legacy Delphi developers for special release procedure
 
-### Tech lead (Support) - 3 years 5 months
+### Tech Lead (Support) - 3 years 5 months
 
 * Period & location: 2013/06 - 2016/11 - Logic LATAM, Curitiba, Brazil
 * Activity: Manage a support team of serveral Oracle Planning & Optimization applications
