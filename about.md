@@ -12,7 +12,7 @@ cstropz@gmail.com
 
 Software Engineer with experience in software development, infrastructure automation and configuration management.
 
-Speaks English, Spanish, French (mid-level), Portuguese.
+Speaks English, Spanish, French (intermediate), Portuguese.
 
 Willing to relocate.
 
@@ -20,7 +20,7 @@ Willing to relocate.
 
 Quick summary of experiences. For detailed information see [the Experience section](#experience).
 
-* 2019/July... - Software Engineer in Financial Auth (EMVCo v2 Smart Interface Server)
+* 2019/July... - Software Engineer in Financial Identity (EMVCo v2 Smart Interface Server)
 * 2017 1.5 years - DevOps Engineer (Chef & Jenkins) in Financial Fraud & Compliance
 * 2017 9 months - DevOps Engineer (OpenShift/Kubernetes) in Telecom
 * 2013 3 years - Tech Lead (support) in Oracle planning & Optimization platforms
@@ -113,8 +113,8 @@ Quick summary of experiences. For detailed information see [the Experience secti
 
 * Period & location: 2009/10 - 2010/04 - Voxel (extinct), Curitiba, Brazil
 * Industry: Telecom industry
-* Activity: Financial daily batch interconnection report implementations
-* Other activity: Fullstack development of financial system screens
+* Activity: Implement interconnection report customizations across customers
+* Other activity: Fullstack development of financial application user interface
 * Technologies: Java, JavaScript, JasperReports, Struts, Oracle, GNU/Linux, shell scripting
 
 ### Java Developer Trainee - 1 year
