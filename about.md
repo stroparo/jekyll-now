@@ -44,8 +44,8 @@ Quick summary of experiences. For detailed information see [the Experience secti
 ### Software Engineer - Current job since July, 2019
 
 * Period & location: 2019/07 - present - Wipro / Mastercard, Curitiba, Brazil
-* Activity: Development & Maintenance of EMVCo v2 Smart Interface Server
 * Industry: Financial Authentication / Identity
+* Activity: Development & Maintenance of EMVCo v2 Smart Interface Server
 * Technologies: Java, Maven, JavaScript, Chef, Jenkins (Groovy), shell scripting in RHEL (Linux)
 * Major contributions
   - Implemented system startup fault tolerance flow for data streaming platform
@@ -55,8 +55,8 @@ Quick summary of experiences. For detailed information see [the Experience secti
 ### DevOps Engineer - 1 year 7 months
 
 * Period & location: 2017/10 - 2019/04 - Wipro / Mastercard, Curitiba, Brazil
-* Activity: Jenkins pipeline and Chef cookbook maintenance and support
 * Industry: Financial Fraud & Compliance
+* Activity: Jenkins pipeline and Chef cookbook maintenance and support
 * Technologies: Chef (Ruby), TestKitchen, Jenkins (Groovy), Maven, shell scripting in RHEL (Linux)
 * Major contributions:
   - Worked with senior engineering on new Maven release scripts and Git shell wrappers
