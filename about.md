@@ -10,7 +10,7 @@ cstropz@gmail.com
 
 ## Summary
 
-Software Engineer with experience in software development, infrastructure automation and configuration management.
+Software Engineer with experience in Software Development & DevOps.
 
 Speaks English, Spanish, French (intermediate), Portuguese.
 
