@@ -89,49 +89,57 @@ This is a summary. For detailed information see [the Experience section](#experi
   - Supported Git training sessions for 100+ developers
   - Supported training legacy Delphi developers for special release procedure
 
-### 2013/06 - 3.5 years - Tech lead at Logic LATAM - Curitiba, Brazil
+### Tech lead (Support) - 3 years 5 months
 
-* Main activity: Manage a support team of serveral Oracle Planning & Optimization applications
-* Technologies: Oracle Fusion Middleware, Oracle RPAS, shell scripting (bash & ksh)
+* Period & location: 2013/06 - 2016/11 - Logic LATAM, Curitiba, Brazil
+* Activity: Manage a support team of serveral Oracle Planning & Optimization applications
+* Technologies: Oracle Fusion Middleware, Oracle RPAS, shell scripting in IBM AIX & GNU/Linux
 * Major contributions:
   - Implemented release automation: deployment and operation scripts
   - Scaled release automation scripts across customers
   - Gave shell script training to trainees and seniors
 
-### 2012/01 - 1.5 year - Support Cosultant Analyst at Wipro LATAM - Curitiba, Brazil
+### Oracle Support Consultant - 1 year 5 months
 
-* Main activity: Maintenance and support of Oracle Planning & Optimization applications
-* Other activities: Technical implementation specialist for one project
-* Technologies: Java, Oracle RPAS, shell scripting (bash & ksh)
+* Period & location: 2012/01 - 2013/05 - Wipro LATAM, Curitiba, Brazil
+* Activity: Oracle Planning & Optimization applications support & implementation
+* Other activity: Technical implementation specialist
+* Technologies: Java, Oracle RPAS, shell scripting in IBM AIX & GNU/Linux
 * Major contributions:
-  - Implemented all the operations shell scripts for one customer
+  - Complete job scripting implementation for a platform sold by Wipro
+  - Production deployment execution in a customer site
 
-### 2010/04 - 1.5 year - Support Trainee at Wipro LATAM - Curitiba, Brazil
+### Oracle Support Trainee - 1 year 8 months
 
-* Main activity: Maintenance and support of Oracle Planning & Optimization applications
-* Technologies: Java, Oracle RPAS, Unix shell scripting (bash & ksh)
+* Period & location: 2010/04 - 2011/12 - Wipro LATAM, Curitiba, Brazil
+* Activity: Maintenance and support of Oracle Planning & Optimization applications
+* Technologies: Java, Oracle RPAS, shell scripting in IBM AIX
 * Major contributions:
-  - Implemented utility to validate registered calc rules versus project-time source specs
+  - Onsite and offsite support & maintenance of logistics planning & optimization platform
+  - Implemented utility to validate registered rules versus project-time rules specs
 
-### 2006 to 2009 - Internship & Trainee programs
+### Java Developer Trainee - 7 months
 
-* Java Developer Trainee at Voxel (extinct)
-  - 7 months - 2009/10 - 2010/04 - Curitiba, Brazil
-  - Industry: Telecom industry
-  - Activity: Financial daily batch interconnection report implementations
-  - Other activity: Fullstack development of financial system screens
-  - Technologies: Java, JavaScript, JasperReports, Struts, Oracle, GNU/Linux, shell scripting
-* Java Developer Trainee at Curitiba City Council, Brazil
-  - 1 year - 2008/09 - 2009/09 - Curitiba, Brazil
-  - Industry: Law and Government
-  - Activity: Java Full Stack Development for new SPL v2 law proposition system
-  - Other activity: Python data migration from Lotus Notes to SPL v2
-  - Technologies: Java, JSP, Python, PostgreSQL, Subversion, Tomcat, Web (HTML, CSS, JavaScript, PHP)
-* Developer Intern at Copel Energia
-  - 1 year 3 months - 2006/02 - 2007/05 - Curitiba, Brazil
-  - Industry: Energy transmission
-  - Activity: Develop and maintain logistics servicing user interface
-  - Technologies: Delphi, Oracle
+* Period & location: 2009/10 - 2010/04 - Voxel (extinct), Curitiba, Brazil
+* Industry: Telecom industry
+* Activity: Financial daily batch interconnection report implementations
+* Other activity: Fullstack development of financial system screens
+* Technologies: Java, JavaScript, JasperReports, Struts, Oracle, GNU/Linux, shell scripting
+
+### Java Developer Trainee - 1 year
+
+* Period & location: 2008/09 - 2009/09 - Curitiba City Council, Curitiba, Brazil
+* Industry: Law and Government
+* Activity: Java Full Stack Development for new SPL v2 law proposition system
+* Other activity: Python data migration from Lotus Notes to SPL v2
+* Technologies: Java, JSP, Python, PostgreSQL, Subversion, Tomcat, Web (HTML, CSS, JavaScript, PHP)
+
+### Developer Intern - 1 year 3 months
+
+* Period & location: 2006/02 - 2007/05 - Copel Energia, Curitiba, Brazil
+* Industry: Energy transmission
+* Activity: Develop and maintain logistics servicing user interface
+* Technologies: Delphi, Oracle
 
 ---
 
