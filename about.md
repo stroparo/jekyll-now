@@ -93,7 +93,7 @@ Quick summary of experiences. For detailed information see [the Experience secti
 
 * Period & location: 2012/01 - 2013/05 - Wipro LATAM, Curitiba, Brazil
 * Industry: Retail
-* Activity: Oracle Planning & Optimization applications support & implementation
+* Activity: Oracle Planning & Optimization applications support
 * Other activity: Technical implementation specialist
 * Technologies: Java, Oracle RPAS, shell scripting in IBM AIX & GNU/Linux
 * Major contributions:
