@@ -78,11 +78,11 @@ Quick summary of experiences. For detailed information see [the Experience secti
   - Supported Git training sessions for 100+ developers
   - Gave release automation training to Delphi developers
 
-### Tech Lead (Support) - 3 years 5 months
+### Tech Lead Oracle Support - 3 years 5 months
 
-* Period & location: 2013/06 - 2016/11 - Logic LATAM, Curitiba, Brazil
+* Period & location: 2013/06 - 2016/11 - Logic Information Systems, Curitiba, Brazil
 * Industry: Retail
-* Activity: Manage a support team of serveral Oracle Planning & Optimization applications
+* Activity: Lead support team of Oracle Planning & Optimization applications
 * Technologies: Oracle Fusion Middleware, Oracle RPAS, shell scripting in IBM AIX & GNU/Linux
 * Major contributions:
   - Implemented release automation: deployment and operation scripts
@@ -91,7 +91,7 @@ Quick summary of experiences. For detailed information see [the Experience secti
 
 ### Oracle Support Consultant - 1 year 5 months
 
-* Period & location: 2012/01 - 2013/05 - Wipro LATAM, Curitiba, Brazil
+* Period & location: 2012/01 - 2013/05 - Wipro, Curitiba, Brazil
 * Industry: Retail
 * Activity: Oracle Planning & Optimization applications support
 * Other activity: Technical implementation specialist
@@ -102,7 +102,7 @@ Quick summary of experiences. For detailed information see [the Experience secti
 
 ### Oracle Support Analyst - 1 year 8 months
 
-* Period & location: 2010/04 - 2011/12 - Wipro LATAM, Curitiba, Brazil
+* Period & location: 2010/04 - 2011/12 - Wipro, Curitiba, Brazil
 * Industry: Retail
 * Activity: Maintenance and support of Oracle Planning & Optimization applications
 * Technologies: Java, Oracle RPAS, shell scripting in IBM AIX
@@ -112,7 +112,8 @@ Quick summary of experiences. For detailed information see [the Experience secti
 
 ### Java Developer Trainee - 7 months
 
-* Period & location: 2009/10 - 2010/04 - Voxel (extinct), Curitiba, Brazil
+* Period & location: 2009/10 - 2010/04
+* Location: Voxel Engenharia e Projecto de Sistemas (extinct), Curitiba, Brazil
 * Industry: Telecom industry
 * Activity: Implement interconnection report customizations across customers
 * Other activity: Fullstack development of financial application user interface
