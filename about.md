@@ -50,7 +50,7 @@ Quick summary of experiences. For detailed information see [the Experience secti
 * Major contributions:
   - Implemented system startup fault tolerance flow for data streaming platform
   - Release ownership & support for Smart Interface Server and its Admin application
-  - Release support during deployment of the Smart Interface Admin application
+  - Provided deployment support during release of the Smart Interface Admin application
 
 ### DevOps Engineer - 1 year 7 months
 
