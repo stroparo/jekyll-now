@@ -20,7 +20,7 @@ Willing to relocate.
 
 Quick summary of experiences. For detailed information see [the Experience section](#experience).
 
-* 2019/July... - Software Engineer in Financial Identity (EMVCo v2 Smart Interface)
+* 2019/July... - Software Engineer (Java) in Financial Identity (EMVCo v2 Smart Interface)
 * 2017 1.5 years - DevOps Engineer (Chef & Jenkins) in Financial Fraud & Compliance
 * 2017 9 months - DevOps Engineer (OpenShift/Kubernetes) in Telecom
 * 2013 3 years - Tech Lead (support) in Oracle planning & Optimization platforms
