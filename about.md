@@ -12,21 +12,9 @@ cstropz@gmail.com
 
 Software Engineer with experience in Software Development & DevOps.
 
-Speaks English, Spanish, French (intermediate), Portuguese.
+Speaks English, Spanish, French (A2), Portuguese.
 
 Willing to relocate.
-
-## Quick info on experience
-
-Quick summary of experiences. For detailed information see [the Experience section](#experience).
-
-* 2019/July... - Software Engineer (Java) in Financial Identity (EMVCo v2 Smart Interface)
-* 2017 1.5 years - DevOps Engineer (Chef & Jenkins) in Financial Fraud & Compliance
-* 2017 9 months - DevOps Engineer (OpenShift/Kubernetes) in Telecom
-* 2013 3 years - Tech Lead (support) in Oracle planning & Optimization platforms
-* 2010 3 years - Oracle Consultant in Planning & Optimization platforms
-* 2008 2 years - Java Developer in Law and Government and Telecom - 2 Trainee
-* 2006 1 year - Developer in Energy Industry logistics platform - Internship
 
 ## Skills
 
