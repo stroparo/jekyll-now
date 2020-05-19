@@ -10,10 +10,9 @@ cstropz@gmail.com
 
 ## Summary
 
-Software Engineer with experience in Software Development & DevOps.
-
-Speaks English, Spanish, French (A2), Portuguese.
-
+Software Engineer 15+ years.  
+Formerly DevOps Engineer and Support Lead.  
+Speaks English, Spanish, French (A2), Portuguese.  
 Willing to relocate.
 
 ## Skills
