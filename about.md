@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 Hometown: Curitiba, Brazil  
-cstropz@gmail.com  
 [LinkedIn profile](https://linkedin.com/in/stroparo)  
 
 Software Developer. Formerly DevOps Engineer, and tech lead (Oracle specific platform). I enjoy developing applications and automation very much.
