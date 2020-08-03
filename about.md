@@ -9,7 +9,7 @@ Hometown: Curitiba, Brazil
 
 Software Developer. Formerly DevOps Engineer, and tech lead (Oracle specific platform). I enjoy developing applications and automation very much.
 
-I speak English, French (early A2), Spanish and Portuguese.
+I speak English, Spanish and Portuguese.
 
 ## Skills
 
