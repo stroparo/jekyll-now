@@ -8,21 +8,21 @@ Hometown: Curitiba, Brazil
 cstropz@gmail.com  
 [LinkedIn profile](https://linkedin.com/in/stroparo)  
 
-## Summary
+Software Developer. Formerly DevOps Engineer, and tech lead (Oracle specific platform). I enjoy developing applications and automation very much.
 
-Software Engineer 15+ years.  
-Formerly DevOps Engineer and Support Lead.  
-Speaks English, Spanish, French (A2), Portuguese.  
-Willing to relocate.
+I speak English, French (early A2), Spanish and Portuguese.
 
 ## Skills
 
-* Back-end development with Java & Spring Boot
-* Front-end web development: ES6+, Bootstrap v4 ([samples](https://codepen.io/stroparo/full/qmLOYj/))
-* DevOps: Chef, Docker, GNU/Linux, OpenShift, Jenkins, shell scripting
-* Python: 214 IQ expert (Pluralsight), data scrapping, selenium jobs
-* SQL 10+ years plus basic DBA (OS service, tablespace, schema and access)
-* Tech Lead (3 years in a support team)
+* Back-end dev: Java 8+ (Spring Boot, Maven and jUnit), Node (Js), Python (Django)
+* Front-end dev: ReactJS, Bootstrap v4 ([samples](https://codepen.io/stroparo/full/qmLOYj/))
+* Infrastructure: Docker, GNU/Linux, Jenkins, Python, Bash and Korn shell scripting
+* Management: Tech Lead for 3 years in a multi-customer application support team
+* Couple other experiences:
+  - DevOps platforms: Chef, Kubernetes (OpenShift Container Platform 1.6)
+  - Python: 214 IQ expert (Pluralsight), data scrapping, selenium jobs
+  - SQL 10+ years plus basic DBA (OS service, tablespace, schema and access)
+  - Tech lead RPAS (Oracle Predictive Application Server)
 
 ---
 
@@ -32,9 +32,10 @@ Willing to relocate.
 
 * Period & location: 2019/07 - present - Wipro / Mastercard, Curitiba, Brazil
 * Industry: Financial Authentication / Identity
+* Activity: Pre-production testing of PIX Bacen (central bank) for a major bank
 * Activity: Development & Maintenance of EMVCo v2 Smart Interface Server
 * Technologies: Java, Maven, JavaScript, Chef, Jenkins (Groovy), shell scripting in RHEL (Linux)
-* Major contributions:
+* Major contributions (EMVCo):
   - Implemented system startup fault tolerance flow for data streaming platform
   - Release ownership & support for Smart Interface Server and its Admin application
   - Provided deployment support during release of the Smart Interface Admin application
@@ -147,4 +148,4 @@ of environment and tool provisioning recipes:
 
 ## Relocation
 
-Willing to relocate.
+Willing to relocate abroad (mainly Quebec province in Canada, France, or other canadian provinces).
