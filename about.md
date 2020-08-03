@@ -19,8 +19,8 @@ I speak English, Spanish and Portuguese.
 * Management: Tech Lead for 3 years in a multi-customer application support team
 * Couple other skills:
   - DevOps platforms: Chef, Kubernetes (OpenShift Container Platform 1.6)
-  - Python: 214 IQ expert (Pluralsight), data scrapping, selenium jobs
-  - SQL 10+ years plus basic DBA (OS service, tablespace, schema and access)
+  - Python: 214 IQ expert (Pluralsight)
+  - SQL plus basic DBA (OS service, tablespace, schema and access)
 
 ---
 
