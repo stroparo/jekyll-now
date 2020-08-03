@@ -17,11 +17,10 @@ I speak English, French (early A2), Spanish and Portuguese.
 * Front-end dev: ReactJS, Bootstrap v4 ([samples](https://codepen.io/stroparo/full/qmLOYj/))
 * Infrastructure: Docker, GNU/Linux, Jenkins, Python, Bash and Korn shell scripting
 * Management: Tech Lead for 3 years in a multi-customer application support team
-* Couple other experiences:
+* Couple other skills:
   - DevOps platforms: Chef, Kubernetes (OpenShift Container Platform 1.6)
   - Python: 214 IQ expert (Pluralsight), data scrapping, selenium jobs
   - SQL 10+ years plus basic DBA (OS service, tablespace, schema and access)
-  - Tech lead RPAS (Oracle Predictive Application Server)
 
 ---
 
