@@ -7,9 +7,9 @@ permalink: /about/
 Hometown: Curitiba, Brazil  
 [LinkedIn profile](https://linkedin.com/in/stroparo)  
 
-Software Developer. Formerly DevOps Engineer, and tech lead (Oracle specific platform). I enjoy developing applications and automation very much.
+Software Developer. Formerly DevOps Engineer, and tech lead (Oracle specific platform). I enjoy very much developing applications and automating all the things.
 
-I speak English, Spanish and Portuguese.
+I speak English, French (early A2), Spanish and Portuguese.
 
 ## Skills
 
@@ -142,7 +142,3 @@ I started and maintain the Daily Shells suite of handy scripts plus some more us
 * [Daily Shells](https://github.com/stroparo/ds) - handy scripts, pronto!
 * [dotfiles](https://github.com/stroparo/dotfiles) - configuration files plus a comprehensive set of provisioning recipes (setup scripts) for several stacks!
 * [runr](https://github.com/stroparo/runr) - remote task runner runs a script in any repository e.g. the dotfiles project above; the Daily Shells project above contains a script to ease invoking this one!
-
-## Relocation
-
-Willing to relocate abroad (mainly Quebec province in Canada, France, or other canadian provinces).
