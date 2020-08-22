@@ -7,7 +7,7 @@ permalink: /about/
 Hometown: Curitiba, Brazil  
 [LinkedIn profile](https://linkedin.com/in/stroparo)  
 
-Software Developer. Formerly support team lead, followed by PaaS (DevOps) Engineering. I enjoy very much developing applications and automating all the things.
+Software Developer. Formerly DevOps Engineer and previously support team lead. I enjoy very much developing applications and automating all the things.
 
 I speak English, French (A2), Spanish and Portuguese.
 
