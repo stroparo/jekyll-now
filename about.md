@@ -134,7 +134,7 @@ See more certificates in [my LinkedIn profile](https://linkedin.com/in/stroparo)
 
 ## Open Source
 
-Code repositories: [BitBucket](https://bitbucket.org/stroparo), [GitHub](https://github.com/stroparo), [GitLab](https://gitlab.com/users/stroparo/projects)
+Most of my source code repositories are at [BitBucket](https://bitbucket.org/stroparo) and [GitHub](https://github.com/stroparo)
 
 I started and now maintain the Daily Shells (a suite of handy scripts) plus some more useful projects:
 
