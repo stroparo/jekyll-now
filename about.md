@@ -7,20 +7,17 @@ permalink: /about/
 Hometown: Curitiba, Brazil  
 [LinkedIn profile](https://linkedin.com/in/stroparo)  
 
-Software Developer. Formerly DevOps Engineer, and tech lead (Oracle specific platform). I enjoy very much developing applications and automating all the things.
+Software Developer. Formerly support team lead, followed by PaaS (DevOps) Engineering. I enjoy very much developing applications and automating all the things.
 
-I speak English, French (early A2), Spanish and Portuguese.
+I speak English, French (A2), Spanish and Portuguese.
 
 ## Skills
 
-* Back-end dev: Java 8+ (Spring Boot, Maven and jUnit), Node (Js), Python (Django)
+* Back-end dev: Java 8+ (Spring Boot, Maven and jUnit), Node (Js and TypeScript)
 * Front-end dev: ReactJS, Bootstrap v4 ([samples](https://codepen.io/stroparo/full/qmLOYj/))
-* Infrastructure: Docker, GNU/Linux, Jenkins, Python, Bash and Korn shell scripting
+* Infrastructure: Docker, GNU/Linux, Jenkins, Python, Bash (and Korn) shell scripting
 * Management: Tech Lead for 3 years in a multi-customer application support team
-* Couple other skills:
-  - DevOps platforms: Chef, Kubernetes (OpenShift Container Platform 1.6)
-  - Python: 214 IQ expert (Pluralsight)
-  - SQL plus basic DBA (OS service, tablespace, schema and access)
+* Databases: SQL plus basic DBA (OS service, tablespace, schema and access)
 
 ---
 
@@ -133,12 +130,14 @@ I speak English, French (early A2), Spanish and Portuguese.
 
 See more certificates in [my LinkedIn profile](https://linkedin.com/in/stroparo) (refer to the Licenses & Certifications section).
 
+---
+
 ## Open Source
 
 Code repositories: [BitBucket](https://bitbucket.org/stroparo), [GitHub](https://github.com/stroparo), [GitLab](https://gitlab.com/users/stroparo/projects)
 
-I started and maintain the Daily Shells suite of handy scripts plus some more useful projects:
+I started and now maintain the Daily Shells (a suite of handy scripts) plus some more useful projects:
 
 * [Daily Shells](https://github.com/stroparo/ds) - handy scripts, pronto!
+* [runr](https://github.com/stroparo/runr) - remote task runner runs a script in any repository e.g. the dotfiles project below; the Daily Shells project above contains a script to ease invoking runr!
 * [dotfiles](https://github.com/stroparo/dotfiles) - configuration files plus a comprehensive set of provisioning recipes (setup scripts) for several stacks!
-* [runr](https://github.com/stroparo/runr) - remote task runner runs a script in any repository e.g. the dotfiles project above; the Daily Shells project above contains a script to ease invoking this one!
