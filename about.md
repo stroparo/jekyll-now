@@ -7,12 +7,11 @@ permalink: /about/
 Hometown: Curitiba, Brazil  
 [LinkedIn profile](https://linkedin.com/in/stroparo)  
 
-Software Developer. Formerly DevOps Engineer and previously support team lead. I enjoy very much developing applications and automating all the things.
-
-I speak English, French (A2), Spanish and Portuguese.
+Software Developer. Formerly DevOps Engineer. I enjoy very much developing applications and automating all the things.
 
 ## Skills
 
+* Spoken languages: English, French (A2), Spanish and Portuguese
 * Back-end dev: Java 8+ (Spring Boot, Maven and jUnit), Node (Js and TypeScript)
 * Front-end dev: ReactJS, Bootstrap v4 ([samples](https://codepen.io/stroparo/full/qmLOYj/))
 * Infrastructure: Docker, GNU/Linux, Jenkins, Python, Bash (and Korn) shell scripting
