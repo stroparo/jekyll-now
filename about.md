@@ -12,4 +12,4 @@ Formerly DevOps Engineer, and tech lead (Oracle RPAS)
 
 I enjoy developing applications and automating all the things.
 
-See my resume [here](https://drive.google.com/file/d/1CjjsJxjJay3nBJqRgU5CAQz6iOynRE2W/view)
+For more, see my LinkedIn profile linked above.
